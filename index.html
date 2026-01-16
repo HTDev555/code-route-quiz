@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description"
+        content="Application intelligente pour réviser le Code de la route français. Système adaptatif, gamification et entraînement aux examens officiels.">
+    <meta name="keywords" content="code de la route, permis B, révision, examen, France, auto-école">
+    <meta name="author" content="Code Route Pro">
+    <meta name="theme-color" content="#3B82F6">
+
+    <title>Code Route Pro - Révisez intelligemment</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Splash Screen -->
+    <div id="splash-screen" class="splash-screen">
+        <div class="splash-content">
+            <div class="splash-logo">🚗</div>
+            <h1 class="splash-title">Code Route Pro</h1>
+            <div class="splash-loader"></div>
+        </div>
+    </div>
+
+    <!-- Main App Container -->
+    <div id="app" class="app hidden">
+
+        <!-- Home Screen -->
+        <div id="screen-home" class="screen active">
+            <header class="header">
+                <div class="header-top">
+                    <h1 class="app-title">Code Route Pro</h1>
+                    <button id="btn-settings" class="btn-icon" aria-label="Paramètres">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <circle cx="12" cy="12" r="3"></circle>
+                            <path
+                                d="M12 1v6m0 6v6m7.07-14.93l-4.24 4.24m-5.66 5.66l-4.24 4.24M23 12h-6m-6 0H1m17.07 7.07l-4.24-4.24m-5.66-5.66L3.93 4.93">
+                            </path>
+                        </svg>
+                    </button>
+                </div>
+
+                <!-- User Progress Card -->
+                <div class="user-card">
+                    <div class="user-info">
+                        <div class="user-avatar">
+                            <span id="user-level">1</span>
+                        </div>
+                        <div class="user-details">
+                            <h2 class="user-name">Conducteur</h2>
+                            <div class="user-level-text">Niveau <span id="level-number">1</span></div>
+                        </div>
+                    </div>
+                    <div class="xp-container">
+                        <div class="xp-bar">
+                            <div id="xp-fill" class="xp-fill" style="width: 0%"></div>
+                        </div>
+                        <div class="xp-text">
+                            <span id="current-xp">0</span> / <span id="next-level-xp">1000</span> XP
+                        </div>
+                    </div>
+                    <div id="streak-badge" class="streak-badge hidden">
+                        🔥 Série: <span id="streak-count">0</span>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Quick Stats -->
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-icon">📊</div>
+                    <div class="stat-value" id="stat-total">0</div>
+                    <div class="stat-label">Questions</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">✅</div>
+                    <div class="stat-value" id="stat-correct">0%</div>
+                    <div class="stat-label">Réussite</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">🏆</div>
+                    <div class="stat-value" id="stat-badges">0</div>
+                    <div class="stat-label">Badges</div>
+                </div>
+            </div>
+
+            <!-- Game Modes -->
+            <div class="modes-container">
+                <h2 class="section-title">Modes de révision</h2>
+
+                <button id="btn-exam-mode" class="mode-card mode-primary">
+                    <div class="mode-icon">🎯</div>
+                    <div class="mode-content">
+                        <h3 class="mode-title">Examen Officiel</h3>
+                        <p class="mode-description">40 questions - Simulation réelle</p>
+                    </div>
+                    <div class="mode-arrow">→</div>
+                </button>
+
+                <button id="btn-training-mode" class="mode-card">
+                    <div class="mode-icon">💪</div>
+                    <div class="mode-content">
+                        <h3 class="mode-title">Entraînement Intelligent</h3>
+                        <p class="mode-description">Adapté à vos faiblesses</p>
+                    </div>
+                    <div class="mode-arrow">→</div>
+                </button>
+
+                <button id="btn-theme-mode" class="mode-card">
+                    <div class="mode-icon">📚</div>
+                    <div class="mode-content">
+                        <h3 class="mode-title">Révision par Thème</h3>
+                        <p class="mode-description">Choisissez une catégorie</p>
+                    </div>
+                    <div class="mode-arrow">→</div>
+                </button>
+
+                <button id="btn-errors-mode" class="mode-card">
+                    <div class="mode-icon">❌</div>
+                    <div class="mode-content">
+                        <h3 class="mode-title">Mes Erreurs</h3>
+                        <p class="mode-description" id="errors-count">Aucune erreur enregistrée</p>
+                    </div>
+                    <div class="mode-arrow">→</div>
+                </button>
+
+                <button id="btn-difficult-mode" class="mode-card">
+                    <div class="mode-icon">⚡</div>
+                    <div class="mode-content">
+                        <h3 class="mode-title">Questions Difficiles</h3>
+                        <p class="mode-description">Niveau expert - Boost XP ×2</p>
+                    </div>
+                    <div class="mode-arrow">→</div>
+                </button>
+            </div>
+        </div>
+
+        <!-- Theme Selection Screen -->
+        <div id="screen-themes" class="screen">
+            <header class="header-simple">
+                <button id="btn-back-themes" class="btn-icon" aria-label="Retour">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"></path>
+                    </svg>
+                </button>
+                <h2 class="header-title">Choisissez un thème</h2>
+                <div class="btn-icon-placeholder"></div>
+            </header>
+
+            <div id="themes-list" class="themes-list">
+                <!-- Populated by JS -->
+            </div>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="screen-quiz" class="screen">
+            <header class="quiz-header">
+                <button id="btn-quit-quiz" class="btn-icon" aria-label="Quitter">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 6L6 18M6 6l12 12"></path>
+                    </svg>
+                </button>
+                <div class="quiz-progress">
+                    <div class="quiz-info">
+                        <span id="question-counter">1/40</span>
+                        <span id="quiz-timer" class="quiz-timer hidden">⏱️ 30:00</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div id="progress-fill" class="progress-fill"></div>
+                    </div>
+                </div>
+                <div class="btn-icon-placeholder"></div>
+            </header>
+
+            <div class="quiz-container">
+                <div id="question-card" class="question-card">
+                    <div id="question-category" class="question-category"></div>
+                    <h3 id="question-text" class="question-text"></h3>
+                    <div id="question-image-container" class="question-image-container hidden">
+                        <img id="question-image" class="question-image" alt="Situation de conduite">
+                    </div>
+
+                    <div id="options-container" class="options-container">
+                        <!-- Populated by JS -->
+                    </div>
+
+                    <button id="btn-hint" class="btn-hint">
+                        💡 Indice (-5 XP)
+                    </button>
+                    <div id="hint-text" class="hint-box hidden"></div>
+                </div>
+
+                <!-- Answer Feedback -->
+                <div id="answer-feedback" class="answer-feedback hidden">
+                    <div class="feedback-content">
+                        <div id="feedback-icon" class="feedback-icon"></div>
+                        <h3 id="feedback-title" class="feedback-title"></h3>
+                        <p id="feedback-message" class="feedback-message"></p>
+
+                        <div class="explanation-box">
+                            <h4 class="explanation-title">📖 Explication</h4>
+                            <p id="explanation-text" class="explanation-text"></p>
+                        </div>
+
+                        <div id="tip-box" class="tip-box">
+                            <h4 class="tip-title">💡 Astuce</h4>
+                            <p id="tip-text" class="tip-text"></p>
+                        </div>
+
+                        <div id="mistake-box" class="mistake-box">
+                            <h4 class="mistake-title">⚠️ Erreur classique</h4>
+                            <p id="mistake-text" class="mistake-text"></p>
+                        </div>
+
+                        <div class="xp-earned">
+                            <span id="xp-earned">+10 XP</span>
+                        </div>
+
+                        <button id="btn-next-question" class="btn-primary btn-large">
+                            Question suivante →
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="screen-results" class="screen">
+            <div class="results-container">
+                <div id="results-header" class="results-header">
+                    <div id="results-icon" class="results-icon">🎉</div>
+                    <h2 id="results-title" class="results-title">Félicitations !</h2>
+                    <p id="results-subtitle" class="results-subtitle">Vous avez terminé</p>
+                </div>
+
+                <div class="results-score">
+                    <div class="score-circle">
+                        <svg class="score-ring" width="200" height="200">
+                            <circle class="score-ring-bg" cx="100" cy="100" r="85" fill="none" stroke-width="12">
+                            </circle>
+                            <circle id="score-ring-progress" class="score-ring-progress" cx="100" cy="100" r="85"
+                                fill="none" stroke-width="12"></circle>
+                        </svg>
+                        <div class="score-text">
+                            <div id="results-score" class="score-number">35/40</div>
+                            <div class="score-label">Réussi</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="results-stats">
+                    <div class="result-stat">
+                        <span class="result-stat-label">Temps</span>
+                        <span id="result-time" class="result-stat-value">--:--</span>
+                    </div>
+                    <div class="result-stat">
+                        <span class="result-stat-label">Précision</span>
+                        <span id="result-accuracy" class="result-stat-value">87%</span>
+                    </div>
+                    <div class="result-stat">
+                        <span class="result-stat-label">XP Gagné</span>
+                        <span id="result-xp" class="result-stat-value">+520</span>
+                    </div>
+                </div>
+
+                <div id="new-badges" class="new-badges hidden">
+                    <h3 class="badges-title">🏆 Nouveaux badges</h3>
+                    <div id="badges-list" class="badges-list"></div>
+                </div>
+
+                <div class="results-actions">
+                    <button id="btn-view-stats" class="btn-secondary btn-large">
+                        📊 Voir les statistiques
+                    </button>
+                    <button id="btn-home" class="btn-primary btn-large">
+                        🏠 Retour à l'accueil
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Statistics Screen -->
+        <div id="screen-stats" class="screen">
+            <header class="header-simple">
+                <button id="btn-back-stats" class="btn-icon" aria-label="Retour">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"></path>
+                    </svg>
+                </button>
+                <h2 class="header-title">Statistiques</h2>
+                <div class="btn-icon-placeholder"></div>
+            </header>
+
+            <div class="stats-content">
+                <div class="stats-overview">
+                    <div class="stat-big-card">
+                        <div class="stat-big-value" id="total-questions-stat">0</div>
+                        <div class="stat-big-label">Questions répondues</div>
+                    </div>
+                    <div class="stat-big-card">
+                        <div class="stat-big-value" id="success-rate-stat">0%</div>
+                        <div class="stat-big-label">Taux de réussite</div>
+                    </div>
+                </div>
+
+                <div class="category-stats">
+                    <h3 class="section-title">Progression par thème</h3>
+                    <div id="category-stats-list" class="category-stats-list">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+
+                <div class="badges-section">
+                    <h3 class="section-title">Badges débloqués</h3>
+                    <div id="all-badges-list" class="all-badges-grid">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+
+                <div class="exam-history">
+                    <h3 class="section-title">Historique examens</h3>
+                    <div id="exam-history-list" class="exam-history-list">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Settings Screen -->
+        <div id="screen-settings" class="screen">
+            <header class="header-simple">
+                <button id="btn-back-settings" class="btn-icon" aria-label="Retour">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"></path>
+                    </svg>
+                </button>
+                <h2 class="header-title">Paramètres</h2>
+                <div class="btn-icon-placeholder"></div>
+            </header>
+
+            <div class="settings-content">
+                <div class="settings-group">
+                    <h3 class="settings-group-title">Apparence</h3>
+
+                    <div class="setting-item">
+                        <div class="setting-info">
+                            <div class="setting-label">Mode sombre</div>
+                            <div class="setting-description">Interface sombre pour vos yeux</div>
+                        </div>
+                        <label class="toggle">
+                            <input type="checkbox" id="toggle-dark-mode">
+                            <span class="toggle-slider"></span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="settings-group">
+                    <h3 class="settings-group-title">Audio & Vibrations</h3>
+
+                    <div class="setting-item">
+                        <div class="setting-info">
+                            <div class="setting-label">Sons</div>
+                            <div class="setting-description">Sons de feedback</div>
+                        </div>
+                        <label class="toggle">
+                            <input type="checkbox" id="toggle-sounds" checked>
+                            <span class="toggle-slider"></span>
+                        </label>
+                    </div>
+
+                    <div class="setting-item">
+                        <div class="setting-info">
+                            <div class="setting-label">Vibrations</div>
+                            <div class="setting-description">Retour haptique</div>
+                        </div>
+                        <label class="toggle">
+                            <input type="checkbox" id="toggle-vibrations" checked>
+                            <span class="toggle-slider"></span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="settings-group">
+                    <h3 class="settings-group-title">Données</h3>
+
+                    <button id="btn-reset-progress" class="btn-danger btn-large">
+                        🗑️ Réinitialiser la progression
+                    </button>
+                </div>
+
+                <div class="settings-footer">
+                    <p class="app-version">Version 1.0.0</p>
+                    <p class="app-credits">Fait avec ❤️ pour réussir le Code</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Confirmation Modal -->
+    <div id="confirm-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <h3 class="modal-title">⚠️ Quitter le quiz</h3>
+            <p class="modal-message">Voulez-vous vraiment quitter ? Votre progression ne sera pas sauvegardée.</p>
+            <div class="modal-actions">
+                <button id="modal-cancel" class="btn-secondary">Continuer le quiz</button>
+                <button id="modal-confirm" class="btn-danger">Quitter</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div id="toast-container" class="toast-container"></div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
