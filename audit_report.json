@@ -1,0 +1,3113 @@
+{
+  "metadata": {
+    "dateAudit": "2026-01-17T17:18:13.757Z",
+    "totalQuestions": 345,
+    "totalErrors": 281
+  },
+  "summary": {
+    "duplicateIds": 0,
+    "duplicateQuestions": 281,
+    "missingFields": 0,
+    "badChoices": 0,
+    "badBonneReponse": 0
+  },
+  "details": {
+    "duplicateIds": [],
+    "duplicateQuestions": [
+      {
+        "question": "Feu rouge : que faire ?",
+        "ids": [
+          2,
+          7
+        ],
+        "positions": [
+          2,
+          7
+        ]
+      },
+      {
+        "question": "Double ligne (continue + discontinue) :",
+        "ids": [
+          3,
+          8
+        ],
+        "positions": [
+          3,
+          8
+        ]
+      },
+      {
+        "question": "À un rond-point, vous devez :",
+        "ids": [
+          4,
+          9
+        ],
+        "positions": [
+          4,
+          9
+        ]
+      },
+      {
+        "question": "Poids limité : signalisation ?",
+        "ids": [
+          5,
+          10
+        ],
+        "positions": [
+          5,
+          10
+        ]
+      },
+      {
+        "question": "Que signifie ce panneau ?",
+        "ids": [
+          1,
+          11
+        ],
+        "positions": [
+          1,
+          11
+        ]
+      },
+      {
+        "question": "Feu rouge : que faire ?",
+        "ids": [
+          2,
+          12
+        ],
+        "positions": [
+          2,
+          12
+        ]
+      },
+      {
+        "question": "Double ligne (continue + discontinue) :",
+        "ids": [
+          3,
+          13
+        ],
+        "positions": [
+          3,
+          13
+        ]
+      },
+      {
+        "question": "À un rond-point, vous devez :",
+        "ids": [
+          4,
+          14
+        ],
+        "positions": [
+          4,
+          14
+        ]
+      },
+      {
+        "question": "Poids limité : signalisation ?",
+        "ids": [
+          5,
+          15
+        ],
+        "positions": [
+          5,
+          15
+        ]
+      },
+      {
+        "question": "Panneau rond fond bleu signifie :",
+        "ids": [
+          6,
+          16
+        ],
+        "positions": [
+          6,
+          16
+        ]
+      },
+      {
+        "question": "Feu rouge : que faire ?",
+        "ids": [
+          2,
+          17
+        ],
+        "positions": [
+          2,
+          17
+        ]
+      },
+      {
+        "question": "Double ligne (continue + discontinue) :",
+        "ids": [
+          3,
+          18
+        ],
+        "positions": [
+          3,
+          18
+        ]
+      },
+      {
+        "question": "À un rond-point, vous devez :",
+        "ids": [
+          4,
+          19
+        ],
+        "positions": [
+          4,
+          19
+        ]
+      },
+      {
+        "question": "Poids limité : signalisation ?",
+        "ids": [
+          5,
+          20
+        ],
+        "positions": [
+          5,
+          20
+        ]
+      },
+      {
+        "question": "Que signifie ce panneau ?",
+        "ids": [
+          1,
+          21
+        ],
+        "positions": [
+          1,
+          21
+        ]
+      },
+      {
+        "question": "Feu rouge : que faire ?",
+        "ids": [
+          2,
+          22
+        ],
+        "positions": [
+          2,
+          22
+        ]
+      },
+      {
+        "question": "Double ligne (continue + discontinue) :",
+        "ids": [
+          3,
+          23
+        ],
+        "positions": [
+          3,
+          23
+        ]
+      },
+      {
+        "question": "À un rond-point, vous devez :",
+        "ids": [
+          4,
+          24
+        ],
+        "positions": [
+          4,
+          24
+        ]
+      },
+      {
+        "question": "Poids limité : signalisation ?",
+        "ids": [
+          5,
+          25
+        ],
+        "positions": [
+          5,
+          25
+        ]
+      },
+      {
+        "question": "Panneau rond fond bleu signifie :",
+        "ids": [
+          6,
+          26
+        ],
+        "positions": [
+          6,
+          26
+        ]
+      },
+      {
+        "question": "Feu rouge : que faire ?",
+        "ids": [
+          2,
+          27
+        ],
+        "positions": [
+          2,
+          27
+        ]
+      },
+      {
+        "question": "Double ligne (continue + discontinue) :",
+        "ids": [
+          3,
+          28
+        ],
+        "positions": [
+          3,
+          28
+        ]
+      },
+      {
+        "question": "À un rond-point, vous devez :",
+        "ids": [
+          4,
+          29
+        ],
+        "positions": [
+          4,
+          29
+        ]
+      },
+      {
+        "question": "Poids limité : signalisation ?",
+        "ids": [
+          5,
+          30
+        ],
+        "positions": [
+          5,
+          30
+        ]
+      },
+      {
+        "question": "Que signifie ce panneau ?",
+        "ids": [
+          1,
+          31
+        ],
+        "positions": [
+          1,
+          31
+        ]
+      },
+      {
+        "question": "Feu rouge : que faire ?",
+        "ids": [
+          2,
+          32
+        ],
+        "positions": [
+          2,
+          32
+        ]
+      },
+      {
+        "question": "Double ligne (continue + discontinue) :",
+        "ids": [
+          3,
+          33
+        ],
+        "positions": [
+          3,
+          33
+        ]
+      },
+      {
+        "question": "À un rond-point, vous devez :",
+        "ids": [
+          4,
+          34
+        ],
+        "positions": [
+          4,
+          34
+        ]
+      },
+      {
+        "question": "Poids limité : signalisation ?",
+        "ids": [
+          5,
+          35
+        ],
+        "positions": [
+          5,
+          35
+        ]
+      },
+      {
+        "question": "Panneau rond fond bleu signifie :",
+        "ids": [
+          6,
+          36
+        ],
+        "positions": [
+          6,
+          36
+        ]
+      },
+      {
+        "question": "Feu rouge : que faire ?",
+        "ids": [
+          2,
+          37
+        ],
+        "positions": [
+          2,
+          37
+        ]
+      },
+      {
+        "question": "Double ligne (continue + discontinue) :",
+        "ids": [
+          3,
+          38
+        ],
+        "positions": [
+          3,
+          38
+        ]
+      },
+      {
+        "question": "À un rond-point, vous devez :",
+        "ids": [
+          4,
+          39
+        ],
+        "positions": [
+          4,
+          39
+        ]
+      },
+      {
+        "question": "Poids limité : signalisation ?",
+        "ids": [
+          5,
+          40
+        ],
+        "positions": [
+          5,
+          40
+        ]
+      },
+      {
+        "question": "Que signifie ce panneau ?",
+        "ids": [
+          1,
+          41
+        ],
+        "positions": [
+          1,
+          41
+        ]
+      },
+      {
+        "question": "Feu rouge : que faire ?",
+        "ids": [
+          2,
+          42
+        ],
+        "positions": [
+          2,
+          42
+        ]
+      },
+      {
+        "question": "Double ligne (continue + discontinue) :",
+        "ids": [
+          3,
+          43
+        ],
+        "positions": [
+          3,
+          43
+        ]
+      },
+      {
+        "question": "À un rond-point, vous devez :",
+        "ids": [
+          4,
+          44
+        ],
+        "positions": [
+          4,
+          44
+        ]
+      },
+      {
+        "question": "Poids limité : signalisation ?",
+        "ids": [
+          5,
+          45
+        ],
+        "positions": [
+          5,
+          45
+        ]
+      },
+      {
+        "question": "Panneau rond fond bleu signifie :",
+        "ids": [
+          6,
+          46
+        ],
+        "positions": [
+          6,
+          46
+        ]
+      },
+      {
+        "question": "Feu rouge : que faire ?",
+        "ids": [
+          2,
+          47
+        ],
+        "positions": [
+          2,
+          47
+        ]
+      },
+      {
+        "question": "Double ligne (continue + discontinue) :",
+        "ids": [
+          3,
+          48
+        ],
+        "positions": [
+          3,
+          48
+        ]
+      },
+      {
+        "question": "À un rond-point, vous devez :",
+        "ids": [
+          4,
+          49
+        ],
+        "positions": [
+          4,
+          49
+        ]
+      },
+      {
+        "question": "Poids limité : signalisation ?",
+        "ids": [
+          5,
+          50
+        ],
+        "positions": [
+          5,
+          50
+        ]
+      },
+      {
+        "question": "Comment mesurer distance sécurité ?",
+        "ids": [
+          92,
+          96
+        ],
+        "positions": [
+          52,
+          56
+        ]
+      },
+      {
+        "question": "Neige/verglas : vitesse adaptée ?",
+        "ids": [
+          93,
+          97
+        ],
+        "positions": [
+          53,
+          57
+        ]
+      },
+      {
+        "question": "Alcool jeune conducteur : taux max ?",
+        "ids": [
+          94,
+          98
+        ],
+        "positions": [
+          54,
+          58
+        ]
+      },
+      {
+        "question": "Comment mesurer distance sécurité ?",
+        "ids": [
+          92,
+          100
+        ],
+        "positions": [
+          52,
+          60
+        ]
+      },
+      {
+        "question": "Neige/verglas : vitesse adaptée ?",
+        "ids": [
+          93,
+          101
+        ],
+        "positions": [
+          53,
+          61
+        ]
+      },
+      {
+        "question": "Alcool jeune conducteur : taux max ?",
+        "ids": [
+          94,
+          102
+        ],
+        "positions": [
+          54,
+          62
+        ]
+      },
+      {
+        "question": "Comment mesurer distance sécurité ?",
+        "ids": [
+          92,
+          104
+        ],
+        "positions": [
+          52,
+          64
+        ]
+      },
+      {
+        "question": "Neige/verglas : vitesse adaptée ?",
+        "ids": [
+          93,
+          105
+        ],
+        "positions": [
+          53,
+          65
+        ]
+      },
+      {
+        "question": "Alcool jeune conducteur : taux max ?",
+        "ids": [
+          94,
+          106
+        ],
+        "positions": [
+          54,
+          66
+        ]
+      },
+      {
+        "question": "Comment mesurer distance sécurité ?",
+        "ids": [
+          92,
+          108
+        ],
+        "positions": [
+          52,
+          68
+        ]
+      },
+      {
+        "question": "Neige/verglas : vitesse adaptée ?",
+        "ids": [
+          93,
+          109
+        ],
+        "positions": [
+          53,
+          69
+        ]
+      },
+      {
+        "question": "Alcool jeune conducteur : taux max ?",
+        "ids": [
+          94,
+          110
+        ],
+        "positions": [
+          54,
+          70
+        ]
+      },
+      {
+        "question": "Vitesse max en agglomération véhicule léger ?",
+        "ids": [
+          91,
+          111
+        ],
+        "positions": [
+          51,
+          71
+        ]
+      },
+      {
+        "question": "Comment mesurer distance sécurité ?",
+        "ids": [
+          92,
+          112
+        ],
+        "positions": [
+          52,
+          72
+        ]
+      },
+      {
+        "question": "Neige/verglas : vitesse adaptée ?",
+        "ids": [
+          93,
+          113
+        ],
+        "positions": [
+          53,
+          73
+        ]
+      },
+      {
+        "question": "Alcool jeune conducteur : taux max ?",
+        "ids": [
+          94,
+          114
+        ],
+        "positions": [
+          54,
+          74
+        ]
+      },
+      {
+        "question": "Zone 30 : vitesse maximale ?",
+        "ids": [
+          95,
+          115
+        ],
+        "positions": [
+          55,
+          75
+        ]
+      },
+      {
+        "question": "Comment mesurer distance sécurité ?",
+        "ids": [
+          92,
+          116
+        ],
+        "positions": [
+          52,
+          76
+        ]
+      },
+      {
+        "question": "Neige/verglas : vitesse adaptée ?",
+        "ids": [
+          93,
+          117
+        ],
+        "positions": [
+          53,
+          77
+        ]
+      },
+      {
+        "question": "Alcool jeune conducteur : taux max ?",
+        "ids": [
+          94,
+          118
+        ],
+        "positions": [
+          54,
+          78
+        ]
+      },
+      {
+        "question": "Voie rapide (2×2 voies) : vitesse ?",
+        "ids": [
+          99,
+          119
+        ],
+        "positions": [
+          59,
+          79
+        ]
+      },
+      {
+        "question": "Comment mesurer distance sécurité ?",
+        "ids": [
+          92,
+          120
+        ],
+        "positions": [
+          52,
+          80
+        ]
+      },
+      {
+        "question": "Neige/verglas : vitesse adaptée ?",
+        "ids": [
+          93,
+          121
+        ],
+        "positions": [
+          53,
+          81
+        ]
+      },
+      {
+        "question": "Alcool jeune conducteur : taux max ?",
+        "ids": [
+          94,
+          122
+        ],
+        "positions": [
+          54,
+          82
+        ]
+      },
+      {
+        "question": "Route à double sens hors agglomération :",
+        "ids": [
+          103,
+          123
+        ],
+        "positions": [
+          63,
+          83
+        ]
+      },
+      {
+        "question": "Comment mesurer distance sécurité ?",
+        "ids": [
+          92,
+          124
+        ],
+        "positions": [
+          52,
+          84
+        ]
+      },
+      {
+        "question": "Neige/verglas : vitesse adaptée ?",
+        "ids": [
+          93,
+          125
+        ],
+        "positions": [
+          53,
+          85
+        ]
+      },
+      {
+        "question": "Taux alcoolémie max (conducteur confirmé) ?",
+        "ids": [
+          126,
+          130
+        ],
+        "positions": [
+          86,
+          90
+        ]
+      },
+      {
+        "question": "Vitesse élimination alcool :",
+        "ids": [
+          127,
+          131
+        ],
+        "positions": [
+          87,
+          91
+        ]
+      },
+      {
+        "question": "Taux alcoolémie max (conducteur confirmé) ?",
+        "ids": [
+          126,
+          134
+        ],
+        "positions": [
+          86,
+          94
+        ]
+      },
+      {
+        "question": "Vitesse élimination alcool :",
+        "ids": [
+          127,
+          135
+        ],
+        "positions": [
+          87,
+          95
+        ]
+      },
+      {
+        "question": "Taux alcoolémie max (conducteur confirmé) ?",
+        "ids": [
+          126,
+          138
+        ],
+        "positions": [
+          86,
+          98
+        ]
+      },
+      {
+        "question": "Vitesse élimination alcool :",
+        "ids": [
+          127,
+          139
+        ],
+        "positions": [
+          87,
+          99
+        ]
+      },
+      {
+        "question": "Cannabis : durée détection dans sang ?",
+        "ids": [
+          128,
+          140
+        ],
+        "positions": [
+          88,
+          100
+        ]
+      },
+      {
+        "question": "Alcoolémie > 0,8 g/L : sanction ?",
+        "ids": [
+          129,
+          141
+        ],
+        "positions": [
+          89,
+          101
+        ]
+      },
+      {
+        "question": "Taux alcoolémie max (conducteur confirmé) ?",
+        "ids": [
+          126,
+          142
+        ],
+        "positions": [
+          86,
+          102
+        ]
+      },
+      {
+        "question": "Vitesse élimination alcool :",
+        "ids": [
+          127,
+          143
+        ],
+        "positions": [
+          87,
+          103
+        ]
+      },
+      {
+        "question": "Dépistage drogue positif (sans ivresse) :",
+        "ids": [
+          132,
+          144
+        ],
+        "positions": [
+          92,
+          104
+        ]
+      },
+      {
+        "question": "Alcool + drogue : sanction ?",
+        "ids": [
+          133,
+          145
+        ],
+        "positions": [
+          93,
+          105
+        ]
+      },
+      {
+        "question": "Taux alcoolémie max (conducteur confirmé) ?",
+        "ids": [
+          126,
+          146
+        ],
+        "positions": [
+          86,
+          106
+        ]
+      },
+      {
+        "question": "Vitesse élimination alcool :",
+        "ids": [
+          127,
+          147
+        ],
+        "positions": [
+          87,
+          107
+        ]
+      },
+      {
+        "question": "Refuser dépistage alcool/drogue :",
+        "ids": [
+          136,
+          148
+        ],
+        "positions": [
+          96,
+          108
+        ]
+      },
+      {
+        "question": "Conduite alcoolisée : retrait points ?",
+        "ids": [
+          137,
+          149
+        ],
+        "positions": [
+          97,
+          109
+        ]
+      },
+      {
+        "question": "Taux alcoolémie max (conducteur confirmé) ?",
+        "ids": [
+          126,
+          150
+        ],
+        "positions": [
+          86,
+          110
+        ]
+      },
+      {
+        "question": "Vitesse élimination alcool :",
+        "ids": [
+          127,
+          151
+        ],
+        "positions": [
+          87,
+          111
+        ]
+      },
+      {
+        "question": "Cannabis : durée détection dans sang ?",
+        "ids": [
+          128,
+          152
+        ],
+        "positions": [
+          88,
+          112
+        ]
+      },
+      {
+        "question": "Alcoolémie > 0,8 g/L : sanction ?",
+        "ids": [
+          129,
+          153
+        ],
+        "positions": [
+          89,
+          113
+        ]
+      },
+      {
+        "question": "Taux alcoolémie max (conducteur confirmé) ?",
+        "ids": [
+          126,
+          154
+        ],
+        "positions": [
+          86,
+          114
+        ]
+      },
+      {
+        "question": "Vitesse élimination alcool :",
+        "ids": [
+          127,
+          155
+        ],
+        "positions": [
+          87,
+          115
+        ]
+      },
+      {
+        "question": "Port ceinture obligatoire :",
+        "ids": [
+          156,
+          160
+        ],
+        "positions": [
+          116,
+          120
+        ]
+      },
+      {
+        "question": "Bébé < 1 an : position siège ?",
+        "ids": [
+          157,
+          161
+        ],
+        "positions": [
+          117,
+          121
+        ]
+      },
+      {
+        "question": "Éthylotest : obligatoire ?",
+        "ids": [
+          158,
+          162
+        ],
+        "positions": [
+          118,
+          122
+        ]
+      },
+      {
+        "question": "Panne tunnel : que faire ?",
+        "ids": [
+          159,
+          163
+        ],
+        "positions": [
+          119,
+          123
+        ]
+      },
+      {
+        "question": "Port ceinture obligatoire :",
+        "ids": [
+          156,
+          164
+        ],
+        "positions": [
+          116,
+          124
+        ]
+      },
+      {
+        "question": "Bébé < 1 an : position siège ?",
+        "ids": [
+          157,
+          165
+        ],
+        "positions": [
+          117,
+          125
+        ]
+      },
+      {
+        "question": "Éthylotest : obligatoire ?",
+        "ids": [
+          158,
+          166
+        ],
+        "positions": [
+          118,
+          126
+        ]
+      },
+      {
+        "question": "Panne tunnel : que faire ?",
+        "ids": [
+          159,
+          167
+        ],
+        "positions": [
+          119,
+          127
+        ]
+      },
+      {
+        "question": "Port ceinture obligatoire :",
+        "ids": [
+          156,
+          168
+        ],
+        "positions": [
+          116,
+          128
+        ]
+      },
+      {
+        "question": "Bébé < 1 an : position siège ?",
+        "ids": [
+          157,
+          169
+        ],
+        "positions": [
+          117,
+          129
+        ]
+      },
+      {
+        "question": "Éthylotest : obligatoire ?",
+        "ids": [
+          158,
+          170
+        ],
+        "positions": [
+          118,
+          130
+        ]
+      },
+      {
+        "question": "Panne tunnel : que faire ?",
+        "ids": [
+          159,
+          171
+        ],
+        "positions": [
+          119,
+          131
+        ]
+      },
+      {
+        "question": "Port ceinture obligatoire :",
+        "ids": [
+          156,
+          172
+        ],
+        "positions": [
+          116,
+          132
+        ]
+      },
+      {
+        "question": "Bébé < 1 an : position siège ?",
+        "ids": [
+          157,
+          173
+        ],
+        "positions": [
+          117,
+          133
+        ]
+      },
+      {
+        "question": "Éthylotest : obligatoire ?",
+        "ids": [
+          158,
+          174
+        ],
+        "positions": [
+          118,
+          134
+        ]
+      },
+      {
+        "question": "Panne tunnel : que faire ?",
+        "ids": [
+          159,
+          175
+        ],
+        "positions": [
+          119,
+          135
+        ]
+      },
+      {
+        "question": "Port ceinture obligatoire :",
+        "ids": [
+          156,
+          176
+        ],
+        "positions": [
+          116,
+          136
+        ]
+      },
+      {
+        "question": "Bébé < 1 an : position siège ?",
+        "ids": [
+          157,
+          177
+        ],
+        "positions": [
+          117,
+          137
+        ]
+      },
+      {
+        "question": "Éthylotest : obligatoire ?",
+        "ids": [
+          158,
+          178
+        ],
+        "positions": [
+          118,
+          138
+        ]
+      },
+      {
+        "question": "Panne tunnel : que faire ?",
+        "ids": [
+          159,
+          179
+        ],
+        "positions": [
+          119,
+          139
+        ]
+      },
+      {
+        "question": "Port ceinture obligatoire :",
+        "ids": [
+          156,
+          180
+        ],
+        "positions": [
+          116,
+          140
+        ]
+      },
+      {
+        "question": "Bébé < 1 an : position siège ?",
+        "ids": [
+          157,
+          181
+        ],
+        "positions": [
+          117,
+          141
+        ]
+      },
+      {
+        "question": "Éthylotest : obligatoire ?",
+        "ids": [
+          158,
+          182
+        ],
+        "positions": [
+          118,
+          142
+        ]
+      },
+      {
+        "question": "Panne tunnel : que faire ?",
+        "ids": [
+          159,
+          183
+        ],
+        "positions": [
+          119,
+          143
+        ]
+      },
+      {
+        "question": "Port ceinture obligatoire :",
+        "ids": [
+          156,
+          184
+        ],
+        "positions": [
+          116,
+          144
+        ]
+      },
+      {
+        "question": "Bébé < 1 an : position siège ?",
+        "ids": [
+          157,
+          185
+        ],
+        "positions": [
+          117,
+          145
+        ]
+      },
+      {
+        "question": "Éthylotest : obligatoire ?",
+        "ids": [
+          158,
+          186
+        ],
+        "positions": [
+          118,
+          146
+        ]
+      },
+      {
+        "question": "Panne tunnel : que faire ?",
+        "ids": [
+          159,
+          187
+        ],
+        "positions": [
+          119,
+          147
+        ]
+      },
+      {
+        "question": "Port ceinture obligatoire :",
+        "ids": [
+          156,
+          188
+        ],
+        "positions": [
+          116,
+          148
+        ]
+      },
+      {
+        "question": "Bébé < 1 an : position siège ?",
+        "ids": [
+          157,
+          189
+        ],
+        "positions": [
+          117,
+          149
+        ]
+      },
+      {
+        "question": "Éthylotest : obligatoire ?",
+        "ids": [
+          158,
+          190
+        ],
+        "positions": [
+          118,
+          150
+        ]
+      },
+      {
+        "question": "Panne tunnel : que faire ?",
+        "ids": [
+          159,
+          191
+        ],
+        "positions": [
+          119,
+          151
+        ]
+      },
+      {
+        "question": "Port ceinture obligatoire :",
+        "ids": [
+          156,
+          192
+        ],
+        "positions": [
+          116,
+          152
+        ]
+      },
+      {
+        "question": "Bébé < 1 an : position siège ?",
+        "ids": [
+          157,
+          193
+        ],
+        "positions": [
+          117,
+          153
+        ]
+      },
+      {
+        "question": "Éthylotest : obligatoire ?",
+        "ids": [
+          158,
+          194
+        ],
+        "positions": [
+          118,
+          154
+        ]
+      },
+      {
+        "question": "Panne tunnel : que faire ?",
+        "ids": [
+          159,
+          195
+        ],
+        "positions": [
+          119,
+          155
+        ]
+      },
+      {
+        "question": "Vision rétroviseur intérieur :",
+        "ids": [
+          196,
+          200
+        ],
+        "positions": [
+          156,
+          160
+        ]
+      },
+      {
+        "question": "Kit mains-libres : autorisé ?",
+        "ids": [
+          197,
+          201
+        ],
+        "positions": [
+          157,
+          161
+        ]
+      },
+      {
+        "question": "Conduite nuit : risques ?",
+        "ids": [
+          198,
+          202
+        ],
+        "positions": [
+          158,
+          162
+        ]
+      },
+      {
+        "question": "Vision rétroviseur intérieur :",
+        "ids": [
+          196,
+          204
+        ],
+        "positions": [
+          156,
+          164
+        ]
+      },
+      {
+        "question": "Kit mains-libres : autorisé ?",
+        "ids": [
+          197,
+          205
+        ],
+        "positions": [
+          157,
+          165
+        ]
+      },
+      {
+        "question": "Conduite nuit : risques ?",
+        "ids": [
+          198,
+          206
+        ],
+        "positions": [
+          158,
+          166
+        ]
+      },
+      {
+        "question": "Vision rétroviseur intérieur :",
+        "ids": [
+          196,
+          208
+        ],
+        "positions": [
+          156,
+          168
+        ]
+      },
+      {
+        "question": "Kit mains-libres : autorisé ?",
+        "ids": [
+          197,
+          209
+        ],
+        "positions": [
+          157,
+          169
+        ]
+      },
+      {
+        "question": "Conduite nuit : risques ?",
+        "ids": [
+          198,
+          210
+        ],
+        "positions": [
+          158,
+          170
+        ]
+      },
+      {
+        "question": "Changer de file : vérification ?",
+        "ids": [
+          199,
+          211
+        ],
+        "positions": [
+          159,
+          171
+        ]
+      },
+      {
+        "question": "Vision rétroviseur intérieur :",
+        "ids": [
+          196,
+          212
+        ],
+        "positions": [
+          156,
+          172
+        ]
+      },
+      {
+        "question": "Kit mains-libres : autorisé ?",
+        "ids": [
+          197,
+          213
+        ],
+        "positions": [
+          157,
+          173
+        ]
+      },
+      {
+        "question": "Conduite nuit : risques ?",
+        "ids": [
+          198,
+          214
+        ],
+        "positions": [
+          158,
+          174
+        ]
+      },
+      {
+        "question": "Moto dans angle mort :",
+        "ids": [
+          203,
+          215
+        ],
+        "positions": [
+          163,
+          175
+        ]
+      },
+      {
+        "question": "Vision rétroviseur intérieur :",
+        "ids": [
+          196,
+          216
+        ],
+        "positions": [
+          156,
+          176
+        ]
+      },
+      {
+        "question": "Kit mains-libres : autorisé ?",
+        "ids": [
+          197,
+          217
+        ],
+        "positions": [
+          157,
+          177
+        ]
+      },
+      {
+        "question": "Conduite nuit : risques ?",
+        "ids": [
+          198,
+          218
+        ],
+        "positions": [
+          158,
+          178
+        ]
+      },
+      {
+        "question": "Rétroviseurs bien réglés :",
+        "ids": [
+          207,
+          219
+        ],
+        "positions": [
+          167,
+          179
+        ]
+      },
+      {
+        "question": "Vision rétroviseur intérieur :",
+        "ids": [
+          196,
+          220
+        ],
+        "positions": [
+          156,
+          180
+        ]
+      },
+      {
+        "question": "Kit mains-libres : autorisé ?",
+        "ids": [
+          197,
+          221
+        ],
+        "positions": [
+          157,
+          181
+        ]
+      },
+      {
+        "question": "Conduite nuit : risques ?",
+        "ids": [
+          198,
+          222
+        ],
+        "positions": [
+          158,
+          182
+        ]
+      },
+      {
+        "question": "Changer de file : vérification ?",
+        "ids": [
+          199,
+          223
+        ],
+        "positions": [
+          159,
+          183
+        ]
+      },
+      {
+        "question": "Vision rétroviseur intérieur :",
+        "ids": [
+          196,
+          224
+        ],
+        "positions": [
+          156,
+          184
+        ]
+      },
+      {
+        "question": "Kit mains-libres : autorisé ?",
+        "ids": [
+          197,
+          225
+        ],
+        "positions": [
+          157,
+          185
+        ]
+      },
+      {
+        "question": "Brouillard visibilité < 50m : vitesse max ?",
+        "ids": [
+          226,
+          230
+        ],
+        "positions": [
+          186,
+          190
+        ]
+      },
+      {
+        "question": "Arrêt sur autoroute autorisé :",
+        "ids": [
+          227,
+          231
+        ],
+        "positions": [
+          187,
+          191
+        ]
+      },
+      {
+        "question": "Feux dans tunnel :",
+        "ids": [
+          228,
+          232
+        ],
+        "positions": [
+          188,
+          192
+        ]
+      },
+      {
+        "question": "Brouillard visibilité < 50m : vitesse max ?",
+        "ids": [
+          226,
+          234
+        ],
+        "positions": [
+          186,
+          194
+        ]
+      },
+      {
+        "question": "Arrêt sur autoroute autorisé :",
+        "ids": [
+          227,
+          235
+        ],
+        "positions": [
+          187,
+          195
+        ]
+      },
+      {
+        "question": "Feux dans tunnel :",
+        "ids": [
+          228,
+          236
+        ],
+        "positions": [
+          188,
+          196
+        ]
+      },
+      {
+        "question": "Brouillard visibilité < 50m : vitesse max ?",
+        "ids": [
+          226,
+          238
+        ],
+        "positions": [
+          186,
+          198
+        ]
+      },
+      {
+        "question": "Arrêt sur autoroute autorisé :",
+        "ids": [
+          227,
+          239
+        ],
+        "positions": [
+          187,
+          199
+        ]
+      },
+      {
+        "question": "Feux dans tunnel :",
+        "ids": [
+          228,
+          240
+        ],
+        "positions": [
+          188,
+          200
+        ]
+      },
+      {
+        "question": "Cause aquaplaning :",
+        "ids": [
+          229,
+          241
+        ],
+        "positions": [
+          189,
+          201
+        ]
+      },
+      {
+        "question": "Brouillard visibilité < 50m : vitesse max ?",
+        "ids": [
+          226,
+          242
+        ],
+        "positions": [
+          186,
+          202
+        ]
+      },
+      {
+        "question": "Arrêt sur autoroute autorisé :",
+        "ids": [
+          227,
+          243
+        ],
+        "positions": [
+          187,
+          203
+        ]
+      },
+      {
+        "question": "Feux dans tunnel :",
+        "ids": [
+          228,
+          244
+        ],
+        "positions": [
+          188,
+          204
+        ]
+      },
+      {
+        "question": "Prévenir aquaplaning :",
+        "ids": [
+          233,
+          245
+        ],
+        "positions": [
+          193,
+          205
+        ]
+      },
+      {
+        "question": "Brouillard visibilité < 50m : vitesse max ?",
+        "ids": [
+          226,
+          246
+        ],
+        "positions": [
+          186,
+          206
+        ]
+      },
+      {
+        "question": "Arrêt sur autoroute autorisé :",
+        "ids": [
+          227,
+          247
+        ],
+        "positions": [
+          187,
+          207
+        ]
+      },
+      {
+        "question": "Feux dans tunnel :",
+        "ids": [
+          228,
+          248
+        ],
+        "positions": [
+          188,
+          208
+        ]
+      },
+      {
+        "question": "Sensation aquaplaning :",
+        "ids": [
+          237,
+          249
+        ],
+        "positions": [
+          197,
+          209
+        ]
+      },
+      {
+        "question": "Brouillard visibilité < 50m : vitesse max ?",
+        "ids": [
+          226,
+          250
+        ],
+        "positions": [
+          186,
+          210
+        ]
+      },
+      {
+        "question": "Arrêt sur autoroute autorisé :",
+        "ids": [
+          227,
+          251
+        ],
+        "positions": [
+          187,
+          211
+        ]
+      },
+      {
+        "question": "Feux dans tunnel :",
+        "ids": [
+          228,
+          252
+        ],
+        "positions": [
+          188,
+          212
+        ]
+      },
+      {
+        "question": "Cause aquaplaning :",
+        "ids": [
+          229,
+          253
+        ],
+        "positions": [
+          189,
+          213
+        ]
+      },
+      {
+        "question": "Brouillard visibilité < 50m : vitesse max ?",
+        "ids": [
+          226,
+          254
+        ],
+        "positions": [
+          186,
+          214
+        ]
+      },
+      {
+        "question": "Arrêt sur autoroute autorisé :",
+        "ids": [
+          227,
+          255
+        ],
+        "positions": [
+          187,
+          215
+        ]
+      },
+      {
+        "question": "Feux dans tunnel :",
+        "ids": [
+          228,
+          256
+        ],
+        "positions": [
+          188,
+          216
+        ]
+      },
+      {
+        "question": "Prévenir aquaplaning :",
+        "ids": [
+          233,
+          257
+        ],
+        "positions": [
+          193,
+          217
+        ]
+      },
+      {
+        "question": "Brouillard visibilité < 50m : vitesse max ?",
+        "ids": [
+          226,
+          258
+        ],
+        "positions": [
+          186,
+          218
+        ]
+      },
+      {
+        "question": "Arrêt sur autoroute autorisé :",
+        "ids": [
+          227,
+          259
+        ],
+        "positions": [
+          187,
+          219
+        ]
+      },
+      {
+        "question": "Feux dans tunnel :",
+        "ids": [
+          228,
+          260
+        ],
+        "positions": [
+          188,
+          220
+        ]
+      },
+      {
+        "question": "Contrôle technique : fréquence ?",
+        "ids": [
+          261,
+          265
+        ],
+        "positions": [
+          221,
+          225
+        ]
+      },
+      {
+        "question": "Profondeur sculpture minimale légale :",
+        "ids": [
+          262,
+          266
+        ],
+        "positions": [
+          222,
+          226
+        ]
+      },
+      {
+        "question": "Liquide de frein : rôle ?",
+        "ids": [
+          263,
+          267
+        ],
+        "positions": [
+          223,
+          227
+        ]
+      },
+      {
+        "question": "Voyant pression pneu :",
+        "ids": [
+          264,
+          268
+        ],
+        "positions": [
+          224,
+          228
+        ]
+      },
+      {
+        "question": "Contrôle technique : fréquence ?",
+        "ids": [
+          261,
+          269
+        ],
+        "positions": [
+          221,
+          229
+        ]
+      },
+      {
+        "question": "Profondeur sculpture minimale légale :",
+        "ids": [
+          262,
+          270
+        ],
+        "positions": [
+          222,
+          230
+        ]
+      },
+      {
+        "question": "Liquide de frein : rôle ?",
+        "ids": [
+          263,
+          271
+        ],
+        "positions": [
+          223,
+          231
+        ]
+      },
+      {
+        "question": "Voyant pression pneu :",
+        "ids": [
+          264,
+          272
+        ],
+        "positions": [
+          224,
+          232
+        ]
+      },
+      {
+        "question": "Contrôle technique : fréquence ?",
+        "ids": [
+          261,
+          273
+        ],
+        "positions": [
+          221,
+          233
+        ]
+      },
+      {
+        "question": "Profondeur sculpture minimale légale :",
+        "ids": [
+          262,
+          274
+        ],
+        "positions": [
+          222,
+          234
+        ]
+      },
+      {
+        "question": "Liquide de frein : rôle ?",
+        "ids": [
+          263,
+          275
+        ],
+        "positions": [
+          223,
+          235
+        ]
+      },
+      {
+        "question": "Voyant pression pneu :",
+        "ids": [
+          264,
+          276
+        ],
+        "positions": [
+          224,
+          236
+        ]
+      },
+      {
+        "question": "Contrôle technique : fréquence ?",
+        "ids": [
+          261,
+          277
+        ],
+        "positions": [
+          221,
+          237
+        ]
+      },
+      {
+        "question": "Profondeur sculpture minimale légale :",
+        "ids": [
+          262,
+          278
+        ],
+        "positions": [
+          222,
+          238
+        ]
+      },
+      {
+        "question": "Liquide de frein : rôle ?",
+        "ids": [
+          263,
+          279
+        ],
+        "positions": [
+          223,
+          239
+        ]
+      },
+      {
+        "question": "Voyant pression pneu :",
+        "ids": [
+          264,
+          280
+        ],
+        "positions": [
+          224,
+          240
+        ]
+      },
+      {
+        "question": "Contrôle technique : fréquence ?",
+        "ids": [
+          261,
+          281
+        ],
+        "positions": [
+          221,
+          241
+        ]
+      },
+      {
+        "question": "Profondeur sculpture minimale légale :",
+        "ids": [
+          262,
+          282
+        ],
+        "positions": [
+          222,
+          242
+        ]
+      },
+      {
+        "question": "Liquide de frein : rôle ?",
+        "ids": [
+          263,
+          283
+        ],
+        "positions": [
+          223,
+          243
+        ]
+      },
+      {
+        "question": "Voyant pression pneu :",
+        "ids": [
+          264,
+          284
+        ],
+        "positions": [
+          224,
+          244
+        ]
+      },
+      {
+        "question": "Contrôle technique : fréquence ?",
+        "ids": [
+          261,
+          285
+        ],
+        "positions": [
+          221,
+          245
+        ]
+      },
+      {
+        "question": "Profondeur sculpture minimale légale :",
+        "ids": [
+          262,
+          286
+        ],
+        "positions": [
+          222,
+          246
+        ]
+      },
+      {
+        "question": "Liquide de frein : rôle ?",
+        "ids": [
+          263,
+          287
+        ],
+        "positions": [
+          223,
+          247
+        ]
+      },
+      {
+        "question": "Voyant pression pneu :",
+        "ids": [
+          264,
+          288
+        ],
+        "positions": [
+          224,
+          248
+        ]
+      },
+      {
+        "question": "Contrôle technique : fréquence ?",
+        "ids": [
+          261,
+          289
+        ],
+        "positions": [
+          221,
+          249
+        ]
+      },
+      {
+        "question": "Profondeur sculpture minimale légale :",
+        "ids": [
+          262,
+          290
+        ],
+        "positions": [
+          222,
+          250
+        ]
+      },
+      {
+        "question": "Numéro urgence européen ?",
+        "ids": [
+          291,
+          295
+        ],
+        "positions": [
+          251,
+          255
+        ]
+      },
+      {
+        "question": "PLS : pourquoi ?",
+        "ids": [
+          292,
+          296
+        ],
+        "positions": [
+          252,
+          256
+        ]
+      },
+      {
+        "question": "Hémorragie : élever membre ?",
+        "ids": [
+          293,
+          297
+        ],
+        "positions": [
+          253,
+          257
+        ]
+      },
+      {
+        "question": "Fracture apparente : action ?",
+        "ids": [
+          294,
+          298
+        ],
+        "positions": [
+          254,
+          258
+        ]
+      },
+      {
+        "question": "Numéro urgence européen ?",
+        "ids": [
+          291,
+          299
+        ],
+        "positions": [
+          251,
+          259
+        ]
+      },
+      {
+        "question": "PLS : pourquoi ?",
+        "ids": [
+          292,
+          300
+        ],
+        "positions": [
+          252,
+          260
+        ]
+      },
+      {
+        "question": "Hémorragie : élever membre ?",
+        "ids": [
+          293,
+          301
+        ],
+        "positions": [
+          253,
+          261
+        ]
+      },
+      {
+        "question": "Fracture apparente : action ?",
+        "ids": [
+          294,
+          302
+        ],
+        "positions": [
+          254,
+          262
+        ]
+      },
+      {
+        "question": "Numéro urgence européen ?",
+        "ids": [
+          291,
+          303
+        ],
+        "positions": [
+          251,
+          263
+        ]
+      },
+      {
+        "question": "PLS : pourquoi ?",
+        "ids": [
+          292,
+          304
+        ],
+        "positions": [
+          252,
+          264
+        ]
+      },
+      {
+        "question": "Hémorragie : élever membre ?",
+        "ids": [
+          293,
+          305
+        ],
+        "positions": [
+          253,
+          265
+        ]
+      },
+      {
+        "question": "Fracture apparente : action ?",
+        "ids": [
+          294,
+          306
+        ],
+        "positions": [
+          254,
+          266
+        ]
+      },
+      {
+        "question": "Numéro urgence européen ?",
+        "ids": [
+          291,
+          307
+        ],
+        "positions": [
+          251,
+          267
+        ]
+      },
+      {
+        "question": "PLS : pourquoi ?",
+        "ids": [
+          292,
+          308
+        ],
+        "positions": [
+          252,
+          268
+        ]
+      },
+      {
+        "question": "Hémorragie : élever membre ?",
+        "ids": [
+          293,
+          309
+        ],
+        "positions": [
+          253,
+          269
+        ]
+      },
+      {
+        "question": "Fracture apparente : action ?",
+        "ids": [
+          294,
+          310
+        ],
+        "positions": [
+          254,
+          270
+        ]
+      },
+      {
+        "question": "Numéro urgence européen ?",
+        "ids": [
+          291,
+          311
+        ],
+        "positions": [
+          251,
+          271
+        ]
+      },
+      {
+        "question": "PLS : pourquoi ?",
+        "ids": [
+          292,
+          312
+        ],
+        "positions": [
+          252,
+          272
+        ]
+      },
+      {
+        "question": "Hémorragie : élever membre ?",
+        "ids": [
+          293,
+          313
+        ],
+        "positions": [
+          253,
+          273
+        ]
+      },
+      {
+        "question": "Fracture apparente : action ?",
+        "ids": [
+          294,
+          314
+        ],
+        "positions": [
+          254,
+          274
+        ]
+      },
+      {
+        "question": "Numéro urgence européen ?",
+        "ids": [
+          291,
+          315
+        ],
+        "positions": [
+          251,
+          275
+        ]
+      },
+      {
+        "question": "Pour consommer moins :",
+        "ids": [
+          316,
+          320
+        ],
+        "positions": [
+          276,
+          280
+        ]
+      },
+      {
+        "question": "Descente : comment économiser ?",
+        "ids": [
+          317,
+          321
+        ],
+        "positions": [
+          277,
+          281
+        ]
+      },
+      {
+        "question": "Fenêtres ouvertes autoroute :",
+        "ids": [
+          318,
+          322
+        ],
+        "positions": [
+          278,
+          282
+        ]
+      },
+      {
+        "question": "Galerie toit inutilisée :",
+        "ids": [
+          319,
+          323
+        ],
+        "positions": [
+          279,
+          283
+        ]
+      },
+      {
+        "question": "Pour consommer moins :",
+        "ids": [
+          316,
+          324
+        ],
+        "positions": [
+          276,
+          284
+        ]
+      },
+      {
+        "question": "Descente : comment économiser ?",
+        "ids": [
+          317,
+          325
+        ],
+        "positions": [
+          277,
+          285
+        ]
+      },
+      {
+        "question": "Fenêtres ouvertes autoroute :",
+        "ids": [
+          318,
+          326
+        ],
+        "positions": [
+          278,
+          286
+        ]
+      },
+      {
+        "question": "Galerie toit inutilisée :",
+        "ids": [
+          319,
+          327
+        ],
+        "positions": [
+          279,
+          287
+        ]
+      },
+      {
+        "question": "Pour consommer moins :",
+        "ids": [
+          316,
+          328
+        ],
+        "positions": [
+          276,
+          288
+        ]
+      },
+      {
+        "question": "Descente : comment économiser ?",
+        "ids": [
+          317,
+          329
+        ],
+        "positions": [
+          277,
+          289
+        ]
+      },
+      {
+        "question": "Fenêtres ouvertes autoroute :",
+        "ids": [
+          318,
+          330
+        ],
+        "positions": [
+          278,
+          290
+        ]
+      },
+      {
+        "question": "Galerie toit inutilisée :",
+        "ids": [
+          319,
+          331
+        ],
+        "positions": [
+          279,
+          291
+        ]
+      },
+      {
+        "question": "Pour consommer moins :",
+        "ids": [
+          316,
+          332
+        ],
+        "positions": [
+          276,
+          292
+        ]
+      },
+      {
+        "question": "Descente : comment économiser ?",
+        "ids": [
+          317,
+          333
+        ],
+        "positions": [
+          277,
+          293
+        ]
+      },
+      {
+        "question": "Fenêtres ouvertes autoroute :",
+        "ids": [
+          318,
+          334
+        ],
+        "positions": [
+          278,
+          294
+        ]
+      },
+      {
+        "question": "Galerie toit inutilisée :",
+        "ids": [
+          319,
+          335
+        ],
+        "positions": [
+          279,
+          295
+        ]
+      },
+      {
+        "question": "Pour consommer moins :",
+        "ids": [
+          316,
+          336
+        ],
+        "positions": [
+          276,
+          296
+        ]
+      },
+      {
+        "question": "Descente : comment économiser ?",
+        "ids": [
+          317,
+          337
+        ],
+        "positions": [
+          277,
+          297
+        ]
+      },
+      {
+        "question": "Fenêtres ouvertes autoroute :",
+        "ids": [
+          318,
+          338
+        ],
+        "positions": [
+          278,
+          298
+        ]
+      },
+      {
+        "question": "Galerie toit inutilisée :",
+        "ids": [
+          319,
+          339
+        ],
+        "positions": [
+          279,
+          299
+        ]
+      },
+      {
+        "question": "Pour consommer moins :",
+        "ids": [
+          316,
+          340
+        ],
+        "positions": [
+          276,
+          300
+        ]
+      },
+      {
+        "question": "Descente : comment économiser ?",
+        "ids": [
+          317,
+          341
+        ],
+        "positions": [
+          277,
+          301
+        ]
+      },
+      {
+        "question": "Fenêtres ouvertes autoroute :",
+        "ids": [
+          318,
+          342
+        ],
+        "positions": [
+          278,
+          302
+        ]
+      },
+      {
+        "question": "Galerie toit inutilisée :",
+        "ids": [
+          319,
+          343
+        ],
+        "positions": [
+          279,
+          303
+        ]
+      },
+      {
+        "question": "Pour consommer moins :",
+        "ids": [
+          316,
+          344
+        ],
+        "positions": [
+          276,
+          304
+        ]
+      },
+      {
+        "question": "Descente : comment économiser ?",
+        "ids": [
+          317,
+          345
+        ],
+        "positions": [
+          277,
+          305
+        ]
+      },
+      {
+        "question": "Rond-point à 2 voies : quelle voie ?",
+        "ids": [
+          53,
+          57
+        ],
+        "positions": [
+          308,
+          312
+        ]
+      },
+      {
+        "question": "Rond-point à 2 voies : quelle voie ?",
+        "ids": [
+          53,
+          61
+        ],
+        "positions": [
+          308,
+          316
+        ]
+      },
+      {
+        "question": "Rond-point à 2 voies : quelle voie ?",
+        "ids": [
+          53,
+          65
+        ],
+        "positions": [
+          308,
+          320
+        ]
+      },
+      {
+        "question": "Véhicule prioritaire gyrophare/sirène :",
+        "ids": [
+          54,
+          66
+        ],
+        "positions": [
+          309,
+          321
+        ]
+      },
+      {
+        "question": "Rond-point à 2 voies : quelle voie ?",
+        "ids": [
+          53,
+          69
+        ],
+        "positions": [
+          308,
+          324
+        ]
+      },
+      {
+        "question": "Ambulance derrière vous :",
+        "ids": [
+          58,
+          70
+        ],
+        "positions": [
+          313,
+          325
+        ]
+      },
+      {
+        "question": "À une intersection sans panneau, qui est prioritaire ?",
+        "ids": [
+          51,
+          71
+        ],
+        "positions": [
+          306,
+          326
+        ]
+      },
+      {
+        "question": "Piéton s'engage sur passage :",
+        "ids": [
+          52,
+          72
+        ],
+        "positions": [
+          307,
+          327
+        ]
+      },
+      {
+        "question": "Rond-point à 2 voies : quelle voie ?",
+        "ids": [
+          53,
+          73
+        ],
+        "positions": [
+          308,
+          328
+        ]
+      },
+      {
+        "question": "Convoi exceptionnel : priorité ?",
+        "ids": [
+          62,
+          74
+        ],
+        "positions": [
+          317,
+          329
+        ]
+      },
+      {
+        "question": "Vous tournez à gauche, véhicule en face :",
+        "ids": [
+          55,
+          75
+        ],
+        "positions": [
+          310,
+          330
+        ]
+      },
+      {
+        "question": "Piéton sur passage vs véhicule prioritaire :",
+        "ids": [
+          56,
+          76
+        ],
+        "positions": [
+          311,
+          331
+        ]
+      },
+      {
+        "question": "Rond-point à 2 voies : quelle voie ?",
+        "ids": [
+          53,
+          77
+        ],
+        "positions": [
+          308,
+          332
+        ]
+      },
+      {
+        "question": "Véhicule prioritaire gyrophare/sirène :",
+        "ids": [
+          54,
+          78
+        ],
+        "positions": [
+          309,
+          333
+        ]
+      },
+      {
+        "question": "Deux véhicules face à face tournent :",
+        "ids": [
+          59,
+          79
+        ],
+        "positions": [
+          314,
+          334
+        ]
+      },
+      {
+        "question": "Zone de rencontre : vitesse et piétons ?",
+        "ids": [
+          60,
+          80
+        ],
+        "positions": [
+          315,
+          335
+        ]
+      },
+      {
+        "question": "Rond-point à 2 voies : quelle voie ?",
+        "ids": [
+          53,
+          81
+        ],
+        "positions": [
+          308,
+          336
+        ]
+      },
+      {
+        "question": "Ambulance derrière vous :",
+        "ids": [
+          58,
+          82
+        ],
+        "positions": [
+          313,
+          337
+        ]
+      },
+      {
+        "question": "Intersection en T : qui est prioritaire ?",
+        "ids": [
+          63,
+          83
+        ],
+        "positions": [
+          318,
+          338
+        ]
+      },
+      {
+        "question": "Piéton traverse hors passage :",
+        "ids": [
+          64,
+          84
+        ],
+        "positions": [
+          319,
+          339
+        ]
+      },
+      {
+        "question": "Rond-point à 2 voies : quelle voie ?",
+        "ids": [
+          53,
+          85
+        ],
+        "positions": [
+          308,
+          340
+        ]
+      },
+      {
+        "question": "Convoi exceptionnel : priorité ?",
+        "ids": [
+          62,
+          86
+        ],
+        "positions": [
+          317,
+          341
+        ]
+      },
+      {
+        "question": "Vous êtes sur route prioritaire. Véhicule de droite ne cède pas :",
+        "ids": [
+          67,
+          87
+        ],
+        "positions": [
+          322,
+          342
+        ]
+      },
+      {
+        "question": "Passage piéton sans feu : priorité ?",
+        "ids": [
+          68,
+          88
+        ],
+        "positions": [
+          323,
+          343
+        ]
+      },
+      {
+        "question": "Rond-point à 2 voies : quelle voie ?",
+        "ids": [
+          53,
+          89
+        ],
+        "positions": [
+          308,
+          344
+        ]
+      },
+      {
+        "question": "Véhicule prioritaire gyrophare/sirène :",
+        "ids": [
+          54,
+          90
+        ],
+        "positions": [
+          309,
+          345
+        ]
+      }
+    ],
+    "missingFields": [],
+    "badChoices": [],
+    "badBonneReponse": []
+  }
+}

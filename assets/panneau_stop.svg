@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <polygon points="50,0 150,0 200,50 200,150 150,200 50,200 0,150 0,50" fill="#d00000"/>
+  <polygon points="60,10 140,10 190,60 190,140 140,190 60,190 10,140 10,60" fill="#ffffff"/>
+  <polygon points="70,20 130,20 180,70 180,130 130,180 70,180 20,130 20,70" fill="#d00000"/>
+  <text x="100" y="122" text-anchor="middle" font-family="Arial Black" font-size="70" fill="#ffffff">STOP</text>
+</svg>

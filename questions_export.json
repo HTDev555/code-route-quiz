@@ -1,0 +1,4487 @@
+[
+  {
+    "id": 1,
+    "question": "Que signifie ce panneau ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Céder le passage",
+      "Intersection"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Le panneau STOP impose un arrêt complet avant la ligne.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 2,
+    "question": "Feu rouge : que faire ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Continuer prudemment",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Feu rouge = arrêt complet obligatoire.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 3,
+    "question": "Double ligne (continue + discontinue) :",
+    "choix": [
+      "Franchir du côté discontinu",
+      "Jamais franchir",
+      "Toujours franchir",
+      "Franchir partout"
+    ],
+    "bonne_reponse": "Franchir du côté discontinu",
+    "explication": "Franchir uniquement du côté discontinu.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 4,
+    "question": "À un rond-point, vous devez :",
+    "choix": [
+      "Céder aux véhicules engagés",
+      "Être prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder aux véhicules engagés",
+    "explication": "Priorité aux véhicules circulant dans le rond-point.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 5,
+    "question": "Poids limité : signalisation ?",
+    "choix": [
+      "Cercle rouge avec tonnage",
+      "Triangle",
+      "Carré",
+      "Losange"
+    ],
+    "bonne_reponse": "Cercle rouge avec tonnage",
+    "explication": "Cercle rouge = interdiction selon poids.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 6,
+    "question": "Panneau rond fond bleu signifie :",
+    "choix": [
+      "Interdiction",
+      "Obligation",
+      "Indication",
+      "Danger"
+    ],
+    "bonne_reponse": "Obligation",
+    "explication": "Panneau bleu rond = obligation à respecter.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 7,
+    "question": "Feu rouge : que faire ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Continuer prudemment",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Feu rouge = arrêt complet obligatoire.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 8,
+    "question": "Double ligne (continue + discontinue) :",
+    "choix": [
+      "Franchir du côté discontinu",
+      "Jamais franchir",
+      "Toujours franchir",
+      "Franchir partout"
+    ],
+    "bonne_reponse": "Franchir du côté discontinu",
+    "explication": "Franchir uniquement du côté discontinu.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 9,
+    "question": "À un rond-point, vous devez :",
+    "choix": [
+      "Céder aux véhicules engagés",
+      "Être prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder aux véhicules engagés",
+    "explication": "Priorité aux véhicules circulant dans le rond-point.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 10,
+    "question": "Poids limité : signalisation ?",
+    "choix": [
+      "Cercle rouge avec tonnage",
+      "Triangle",
+      "Carré",
+      "Losange"
+    ],
+    "bonne_reponse": "Cercle rouge avec tonnage",
+    "explication": "Cercle rouge = interdiction selon poids.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 11,
+    "question": "Que signifie ce panneau ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Céder le passage",
+      "Intersection"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Le panneau STOP impose un arrêt complet avant la ligne.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 12,
+    "question": "Feu rouge : que faire ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Continuer prudemment",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Feu rouge = arrêt complet obligatoire.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 13,
+    "question": "Double ligne (continue + discontinue) :",
+    "choix": [
+      "Franchir du côté discontinu",
+      "Jamais franchir",
+      "Toujours franchir",
+      "Franchir partout"
+    ],
+    "bonne_reponse": "Franchir du côté discontinu",
+    "explication": "Franchir uniquement du côté discontinu.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 14,
+    "question": "À un rond-point, vous devez :",
+    "choix": [
+      "Céder aux véhicules engagés",
+      "Être prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder aux véhicules engagés",
+    "explication": "Priorité aux véhicules circulant dans le rond-point.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 15,
+    "question": "Poids limité : signalisation ?",
+    "choix": [
+      "Cercle rouge avec tonnage",
+      "Triangle",
+      "Carré",
+      "Losange"
+    ],
+    "bonne_reponse": "Cercle rouge avec tonnage",
+    "explication": "Cercle rouge = interdiction selon poids.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 16,
+    "question": "Panneau rond fond bleu signifie :",
+    "choix": [
+      "Interdiction",
+      "Obligation",
+      "Indication",
+      "Danger"
+    ],
+    "bonne_reponse": "Obligation",
+    "explication": "Panneau bleu rond = obligation à respecter.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 17,
+    "question": "Feu rouge : que faire ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Continuer prudemment",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Feu rouge = arrêt complet obligatoire.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 18,
+    "question": "Double ligne (continue + discontinue) :",
+    "choix": [
+      "Franchir du côté discontinu",
+      "Jamais franchir",
+      "Toujours franchir",
+      "Franchir partout"
+    ],
+    "bonne_reponse": "Franchir du côté discontinu",
+    "explication": "Franchir uniquement du côté discontinu.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 19,
+    "question": "À un rond-point, vous devez :",
+    "choix": [
+      "Céder aux véhicules engagés",
+      "Être prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder aux véhicules engagés",
+    "explication": "Priorité aux véhicules circulant dans le rond-point.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 20,
+    "question": "Poids limité : signalisation ?",
+    "choix": [
+      "Cercle rouge avec tonnage",
+      "Triangle",
+      "Carré",
+      "Losange"
+    ],
+    "bonne_reponse": "Cercle rouge avec tonnage",
+    "explication": "Cercle rouge = interdiction selon poids.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 21,
+    "question": "Que signifie ce panneau ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Céder le passage",
+      "Intersection"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Le panneau STOP impose un arrêt complet avant la ligne.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 22,
+    "question": "Feu rouge : que faire ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Continuer prudemment",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Feu rouge = arrêt complet obligatoire.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 23,
+    "question": "Double ligne (continue + discontinue) :",
+    "choix": [
+      "Franchir du côté discontinu",
+      "Jamais franchir",
+      "Toujours franchir",
+      "Franchir partout"
+    ],
+    "bonne_reponse": "Franchir du côté discontinu",
+    "explication": "Franchir uniquement du côté discontinu.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 24,
+    "question": "À un rond-point, vous devez :",
+    "choix": [
+      "Céder aux véhicules engagés",
+      "Être prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder aux véhicules engagés",
+    "explication": "Priorité aux véhicules circulant dans le rond-point.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 25,
+    "question": "Poids limité : signalisation ?",
+    "choix": [
+      "Cercle rouge avec tonnage",
+      "Triangle",
+      "Carré",
+      "Losange"
+    ],
+    "bonne_reponse": "Cercle rouge avec tonnage",
+    "explication": "Cercle rouge = interdiction selon poids.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 26,
+    "question": "Panneau rond fond bleu signifie :",
+    "choix": [
+      "Interdiction",
+      "Obligation",
+      "Indication",
+      "Danger"
+    ],
+    "bonne_reponse": "Obligation",
+    "explication": "Panneau bleu rond = obligation à respecter.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 27,
+    "question": "Feu rouge : que faire ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Continuer prudemment",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Feu rouge = arrêt complet obligatoire.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 28,
+    "question": "Double ligne (continue + discontinue) :",
+    "choix": [
+      "Franchir du côté discontinu",
+      "Jamais franchir",
+      "Toujours franchir",
+      "Franchir partout"
+    ],
+    "bonne_reponse": "Franchir du côté discontinu",
+    "explication": "Franchir uniquement du côté discontinu.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 29,
+    "question": "À un rond-point, vous devez :",
+    "choix": [
+      "Céder aux véhicules engagés",
+      "Être prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder aux véhicules engagés",
+    "explication": "Priorité aux véhicules circulant dans le rond-point.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 30,
+    "question": "Poids limité : signalisation ?",
+    "choix": [
+      "Cercle rouge avec tonnage",
+      "Triangle",
+      "Carré",
+      "Losange"
+    ],
+    "bonne_reponse": "Cercle rouge avec tonnage",
+    "explication": "Cercle rouge = interdiction selon poids.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 31,
+    "question": "Que signifie ce panneau ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Céder le passage",
+      "Intersection"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Le panneau STOP impose un arrêt complet avant la ligne.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 32,
+    "question": "Feu rouge : que faire ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Continuer prudemment",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Feu rouge = arrêt complet obligatoire.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 33,
+    "question": "Double ligne (continue + discontinue) :",
+    "choix": [
+      "Franchir du côté discontinu",
+      "Jamais franchir",
+      "Toujours franchir",
+      "Franchir partout"
+    ],
+    "bonne_reponse": "Franchir du côté discontinu",
+    "explication": "Franchir uniquement du côté discontinu.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 34,
+    "question": "À un rond-point, vous devez :",
+    "choix": [
+      "Céder aux véhicules engagés",
+      "Être prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder aux véhicules engagés",
+    "explication": "Priorité aux véhicules circulant dans le rond-point.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 35,
+    "question": "Poids limité : signalisation ?",
+    "choix": [
+      "Cercle rouge avec tonnage",
+      "Triangle",
+      "Carré",
+      "Losange"
+    ],
+    "bonne_reponse": "Cercle rouge avec tonnage",
+    "explication": "Cercle rouge = interdiction selon poids.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 36,
+    "question": "Panneau rond fond bleu signifie :",
+    "choix": [
+      "Interdiction",
+      "Obligation",
+      "Indication",
+      "Danger"
+    ],
+    "bonne_reponse": "Obligation",
+    "explication": "Panneau bleu rond = obligation à respecter.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 37,
+    "question": "Feu rouge : que faire ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Continuer prudemment",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Feu rouge = arrêt complet obligatoire.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 38,
+    "question": "Double ligne (continue + discontinue) :",
+    "choix": [
+      "Franchir du côté discontinu",
+      "Jamais franchir",
+      "Toujours franchir",
+      "Franchir partout"
+    ],
+    "bonne_reponse": "Franchir du côté discontinu",
+    "explication": "Franchir uniquement du côté discontinu.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 39,
+    "question": "À un rond-point, vous devez :",
+    "choix": [
+      "Céder aux véhicules engagés",
+      "Être prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder aux véhicules engagés",
+    "explication": "Priorité aux véhicules circulant dans le rond-point.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 40,
+    "question": "Poids limité : signalisation ?",
+    "choix": [
+      "Cercle rouge avec tonnage",
+      "Triangle",
+      "Carré",
+      "Losange"
+    ],
+    "bonne_reponse": "Cercle rouge avec tonnage",
+    "explication": "Cercle rouge = interdiction selon poids.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 41,
+    "question": "Que signifie ce panneau ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Céder le passage",
+      "Intersection"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Le panneau STOP impose un arrêt complet avant la ligne.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 42,
+    "question": "Feu rouge : que faire ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Continuer prudemment",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Feu rouge = arrêt complet obligatoire.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 43,
+    "question": "Double ligne (continue + discontinue) :",
+    "choix": [
+      "Franchir du côté discontinu",
+      "Jamais franchir",
+      "Toujours franchir",
+      "Franchir partout"
+    ],
+    "bonne_reponse": "Franchir du côté discontinu",
+    "explication": "Franchir uniquement du côté discontinu.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 44,
+    "question": "À un rond-point, vous devez :",
+    "choix": [
+      "Céder aux véhicules engagés",
+      "Être prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder aux véhicules engagés",
+    "explication": "Priorité aux véhicules circulant dans le rond-point.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 45,
+    "question": "Poids limité : signalisation ?",
+    "choix": [
+      "Cercle rouge avec tonnage",
+      "Triangle",
+      "Carré",
+      "Losange"
+    ],
+    "bonne_reponse": "Cercle rouge avec tonnage",
+    "explication": "Cercle rouge = interdiction selon poids.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 46,
+    "question": "Panneau rond fond bleu signifie :",
+    "choix": [
+      "Interdiction",
+      "Obligation",
+      "Indication",
+      "Danger"
+    ],
+    "bonne_reponse": "Obligation",
+    "explication": "Panneau bleu rond = obligation à respecter.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 47,
+    "question": "Feu rouge : que faire ?",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Continuer prudemment",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Feu rouge = arrêt complet obligatoire.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 48,
+    "question": "Double ligne (continue + discontinue) :",
+    "choix": [
+      "Franchir du côté discontinu",
+      "Jamais franchir",
+      "Toujours franchir",
+      "Franchir partout"
+    ],
+    "bonne_reponse": "Franchir du côté discontinu",
+    "explication": "Franchir uniquement du côté discontinu.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 49,
+    "question": "À un rond-point, vous devez :",
+    "choix": [
+      "Céder aux véhicules engagés",
+      "Être prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder aux véhicules engagés",
+    "explication": "Priorité aux véhicules circulant dans le rond-point.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 50,
+    "question": "Poids limité : signalisation ?",
+    "choix": [
+      "Cercle rouge avec tonnage",
+      "Triangle",
+      "Carré",
+      "Losange"
+    ],
+    "bonne_reponse": "Cercle rouge avec tonnage",
+    "explication": "Cercle rouge = interdiction selon poids.",
+    "theme": "Signalisation"
+  },
+  {
+    "id": 91,
+    "question": "Vitesse max en agglomération véhicule léger ?",
+    "choix": [
+      "50 km/h",
+      "60 km/h",
+      "70 km/h",
+      "80 km/h"
+    ],
+    "bonne_reponse": "50 km/h",
+    "explication": "50 km/h en ville, sauf indication contraire.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 92,
+    "question": "Comment mesurer distance sécurité ?",
+    "choix": [
+      "Repère fixe + 2 sec",
+      "Mètres",
+      "Longueurs voiture",
+      "Au jugé"
+    ],
+    "bonne_reponse": "Repère fixe + 2 sec",
+    "explication": "Repère fixe, compter 2 sec avant passage.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 93,
+    "question": "Neige/verglas : vitesse adaptée ?",
+    "choix": [
+      "Oui, très réduite",
+      "Non",
+      "Un peu",
+      "Inutile"
+    ],
+    "bonne_reponse": "Oui, très réduite",
+    "explication": "Neige/verglas = vitesse très réduite.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 94,
+    "question": "Alcool jeune conducteur : taux max ?",
+    "choix": [
+      "0,2 g/L",
+      "0,5 g/L",
+      "0 g/L",
+      "0,8 g/L"
+    ],
+    "bonne_reponse": "0,2 g/L",
+    "explication": "0,2 g/L max pour jeune conducteur.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 95,
+    "question": "Zone 30 : vitesse maximale ?",
+    "choix": [
+      "30 km/h",
+      "40 km/h",
+      "50 km/h",
+      "20 km/h"
+    ],
+    "bonne_reponse": "30 km/h",
+    "explication": "Zone 30 = 30 km/h maximum.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 96,
+    "question": "Comment mesurer distance sécurité ?",
+    "choix": [
+      "Repère fixe + 2 sec",
+      "Mètres",
+      "Longueurs voiture",
+      "Au jugé"
+    ],
+    "bonne_reponse": "Repère fixe + 2 sec",
+    "explication": "Repère fixe, compter 2 sec avant passage.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 97,
+    "question": "Neige/verglas : vitesse adaptée ?",
+    "choix": [
+      "Oui, très réduite",
+      "Non",
+      "Un peu",
+      "Inutile"
+    ],
+    "bonne_reponse": "Oui, très réduite",
+    "explication": "Neige/verglas = vitesse très réduite.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 98,
+    "question": "Alcool jeune conducteur : taux max ?",
+    "choix": [
+      "0,2 g/L",
+      "0,5 g/L",
+      "0 g/L",
+      "0,8 g/L"
+    ],
+    "bonne_reponse": "0,2 g/L",
+    "explication": "0,2 g/L max pour jeune conducteur.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 99,
+    "question": "Voie rapide (2×2 voies) : vitesse ?",
+    "choix": [
+      "110 km/h",
+      "130 km/h",
+      "90 km/h",
+      "100 km/h"
+    ],
+    "bonne_reponse": "110 km/h",
+    "explication": "110 km/h max sur voie rapide.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 100,
+    "question": "Comment mesurer distance sécurité ?",
+    "choix": [
+      "Repère fixe + 2 sec",
+      "Mètres",
+      "Longueurs voiture",
+      "Au jugé"
+    ],
+    "bonne_reponse": "Repère fixe + 2 sec",
+    "explication": "Repère fixe, compter 2 sec avant passage.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 101,
+    "question": "Neige/verglas : vitesse adaptée ?",
+    "choix": [
+      "Oui, très réduite",
+      "Non",
+      "Un peu",
+      "Inutile"
+    ],
+    "bonne_reponse": "Oui, très réduite",
+    "explication": "Neige/verglas = vitesse très réduite.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 102,
+    "question": "Alcool jeune conducteur : taux max ?",
+    "choix": [
+      "0,2 g/L",
+      "0,5 g/L",
+      "0 g/L",
+      "0,8 g/L"
+    ],
+    "bonne_reponse": "0,2 g/L",
+    "explication": "0,2 g/L max pour jeune conducteur.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 103,
+    "question": "Route à double sens hors agglomération :",
+    "choix": [
+      "80 km/h",
+      "90 km/h",
+      "70 km/h",
+      "110 km/h"
+    ],
+    "bonne_reponse": "80 km/h",
+    "explication": "80 km/h sur routes bidirectionnelles depuis 2018.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 104,
+    "question": "Comment mesurer distance sécurité ?",
+    "choix": [
+      "Repère fixe + 2 sec",
+      "Mètres",
+      "Longueurs voiture",
+      "Au jugé"
+    ],
+    "bonne_reponse": "Repère fixe + 2 sec",
+    "explication": "Repère fixe, compter 2 sec avant passage.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 105,
+    "question": "Neige/verglas : vitesse adaptée ?",
+    "choix": [
+      "Oui, très réduite",
+      "Non",
+      "Un peu",
+      "Inutile"
+    ],
+    "bonne_reponse": "Oui, très réduite",
+    "explication": "Neige/verglas = vitesse très réduite.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 106,
+    "question": "Alcool jeune conducteur : taux max ?",
+    "choix": [
+      "0,2 g/L",
+      "0,5 g/L",
+      "0 g/L",
+      "0,8 g/L"
+    ],
+    "bonne_reponse": "0,2 g/L",
+    "explication": "0,2 g/L max pour jeune conducteur.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 107,
+    "question": "Autoroute temps sec : vitesse max ?",
+    "choix": [
+      "130 km/h",
+      "110 km/h",
+      "90 km/h",
+      "150 km/h"
+    ],
+    "bonne_reponse": "130 km/h",
+    "explication": "130 km/h maximum sur autoroute temps sec.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 108,
+    "question": "Comment mesurer distance sécurité ?",
+    "choix": [
+      "Repère fixe + 2 sec",
+      "Mètres",
+      "Longueurs voiture",
+      "Au jugé"
+    ],
+    "bonne_reponse": "Repère fixe + 2 sec",
+    "explication": "Repère fixe, compter 2 sec avant passage.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 109,
+    "question": "Neige/verglas : vitesse adaptée ?",
+    "choix": [
+      "Oui, très réduite",
+      "Non",
+      "Un peu",
+      "Inutile"
+    ],
+    "bonne_reponse": "Oui, très réduite",
+    "explication": "Neige/verglas = vitesse très réduite.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 110,
+    "question": "Alcool jeune conducteur : taux max ?",
+    "choix": [
+      "0,2 g/L",
+      "0,5 g/L",
+      "0 g/L",
+      "0,8 g/L"
+    ],
+    "bonne_reponse": "0,2 g/L",
+    "explication": "0,2 g/L max pour jeune conducteur.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 111,
+    "question": "Vitesse max en agglomération véhicule léger ?",
+    "choix": [
+      "50 km/h",
+      "60 km/h",
+      "70 km/h",
+      "80 km/h"
+    ],
+    "bonne_reponse": "50 km/h",
+    "explication": "50 km/h en ville, sauf indication contraire.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 112,
+    "question": "Comment mesurer distance sécurité ?",
+    "choix": [
+      "Repère fixe + 2 sec",
+      "Mètres",
+      "Longueurs voiture",
+      "Au jugé"
+    ],
+    "bonne_reponse": "Repère fixe + 2 sec",
+    "explication": "Repère fixe, compter 2 sec avant passage.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 113,
+    "question": "Neige/verglas : vitesse adaptée ?",
+    "choix": [
+      "Oui, très réduite",
+      "Non",
+      "Un peu",
+      "Inutile"
+    ],
+    "bonne_reponse": "Oui, très réduite",
+    "explication": "Neige/verglas = vitesse très réduite.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 114,
+    "question": "Alcool jeune conducteur : taux max ?",
+    "choix": [
+      "0,2 g/L",
+      "0,5 g/L",
+      "0 g/L",
+      "0,8 g/L"
+    ],
+    "bonne_reponse": "0,2 g/L",
+    "explication": "0,2 g/L max pour jeune conducteur.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 115,
+    "question": "Zone 30 : vitesse maximale ?",
+    "choix": [
+      "30 km/h",
+      "40 km/h",
+      "50 km/h",
+      "20 km/h"
+    ],
+    "bonne_reponse": "30 km/h",
+    "explication": "Zone 30 = 30 km/h maximum.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 116,
+    "question": "Comment mesurer distance sécurité ?",
+    "choix": [
+      "Repère fixe + 2 sec",
+      "Mètres",
+      "Longueurs voiture",
+      "Au jugé"
+    ],
+    "bonne_reponse": "Repère fixe + 2 sec",
+    "explication": "Repère fixe, compter 2 sec avant passage.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 117,
+    "question": "Neige/verglas : vitesse adaptée ?",
+    "choix": [
+      "Oui, très réduite",
+      "Non",
+      "Un peu",
+      "Inutile"
+    ],
+    "bonne_reponse": "Oui, très réduite",
+    "explication": "Neige/verglas = vitesse très réduite.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 118,
+    "question": "Alcool jeune conducteur : taux max ?",
+    "choix": [
+      "0,2 g/L",
+      "0,5 g/L",
+      "0 g/L",
+      "0,8 g/L"
+    ],
+    "bonne_reponse": "0,2 g/L",
+    "explication": "0,2 g/L max pour jeune conducteur.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 119,
+    "question": "Voie rapide (2×2 voies) : vitesse ?",
+    "choix": [
+      "110 km/h",
+      "130 km/h",
+      "90 km/h",
+      "100 km/h"
+    ],
+    "bonne_reponse": "110 km/h",
+    "explication": "110 km/h max sur voie rapide.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 120,
+    "question": "Comment mesurer distance sécurité ?",
+    "choix": [
+      "Repère fixe + 2 sec",
+      "Mètres",
+      "Longueurs voiture",
+      "Au jugé"
+    ],
+    "bonne_reponse": "Repère fixe + 2 sec",
+    "explication": "Repère fixe, compter 2 sec avant passage.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 121,
+    "question": "Neige/verglas : vitesse adaptée ?",
+    "choix": [
+      "Oui, très réduite",
+      "Non",
+      "Un peu",
+      "Inutile"
+    ],
+    "bonne_reponse": "Oui, très réduite",
+    "explication": "Neige/verglas = vitesse très réduite.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 122,
+    "question": "Alcool jeune conducteur : taux max ?",
+    "choix": [
+      "0,2 g/L",
+      "0,5 g/L",
+      "0 g/L",
+      "0,8 g/L"
+    ],
+    "bonne_reponse": "0,2 g/L",
+    "explication": "0,2 g/L max pour jeune conducteur.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 123,
+    "question": "Route à double sens hors agglomération :",
+    "choix": [
+      "80 km/h",
+      "90 km/h",
+      "70 km/h",
+      "110 km/h"
+    ],
+    "bonne_reponse": "80 km/h",
+    "explication": "80 km/h sur routes bidirectionnelles depuis 2018.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 124,
+    "question": "Comment mesurer distance sécurité ?",
+    "choix": [
+      "Repère fixe + 2 sec",
+      "Mètres",
+      "Longueurs voiture",
+      "Au jugé"
+    ],
+    "bonne_reponse": "Repère fixe + 2 sec",
+    "explication": "Repère fixe, compter 2 sec avant passage.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 125,
+    "question": "Neige/verglas : vitesse adaptée ?",
+    "choix": [
+      "Oui, très réduite",
+      "Non",
+      "Un peu",
+      "Inutile"
+    ],
+    "bonne_reponse": "Oui, très réduite",
+    "explication": "Neige/verglas = vitesse très réduite.",
+    "theme": "Vitesse"
+  },
+  {
+    "id": 126,
+    "question": "Taux alcoolémie max (conducteur confirmé) ?",
+    "choix": [
+      "0,5 g/L sang",
+      "0,8 g/L",
+      "0,2 g/L",
+      "0 g/L"
+    ],
+    "bonne_reponse": "0,5 g/L sang",
+    "explication": "0,5 g/L max confirmé, 0,2 g/L jeune.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 127,
+    "question": "Vitesse élimination alcool :",
+    "choix": [
+      "0,15 g/L/h",
+      "0,5 g/L/h",
+      "0,1 g/L/h",
+      "1 g/L/h"
+    ],
+    "bonne_reponse": "0,15 g/L/h",
+    "explication": "≈ 0,15 g/L éliminé par heure.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 128,
+    "question": "Cannabis : durée détection dans sang ?",
+    "choix": [
+      "Plusieurs jours/semaines",
+      "1 heure",
+      "1 jour",
+      "1 semaine max"
+    ],
+    "bonne_reponse": "Plusieurs jours/semaines",
+    "explication": "Cannabis détectable plusieurs jours voire semaines.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 129,
+    "question": "Alcoolémie > 0,8 g/L : sanction ?",
+    "choix": [
+      "Délit pénal",
+      "Amende simple",
+      "Avertissement",
+      "Stage"
+    ],
+    "bonne_reponse": "Délit pénal",
+    "explication": "> 0,8 g/L = délit : tribunal, retrait, prison possible.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 130,
+    "question": "Taux alcoolémie max (conducteur confirmé) ?",
+    "choix": [
+      "0,5 g/L sang",
+      "0,8 g/L",
+      "0,2 g/L",
+      "0 g/L"
+    ],
+    "bonne_reponse": "0,5 g/L sang",
+    "explication": "0,5 g/L max confirmé, 0,2 g/L jeune.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 131,
+    "question": "Vitesse élimination alcool :",
+    "choix": [
+      "0,15 g/L/h",
+      "0,5 g/L/h",
+      "0,1 g/L/h",
+      "1 g/L/h"
+    ],
+    "bonne_reponse": "0,15 g/L/h",
+    "explication": "≈ 0,15 g/L éliminé par heure.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 132,
+    "question": "Dépistage drogue positif (sans ivresse) :",
+    "choix": [
+      "Retrait permis + prison",
+      "Amende",
+      "Avertissement",
+      "Stage"
+    ],
+    "bonne_reponse": "Retrait permis + prison",
+    "explication": "Conduite stupéfiants = délit : 2 ans prison, retrait.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 133,
+    "question": "Alcool + drogue : sanction ?",
+    "choix": [
+      "Cumulées",
+      "Une seule",
+      "Réduite",
+      "Aucune"
+    ],
+    "bonne_reponse": "Cumulées",
+    "explication": "Alcool + drogue = sanctions cumulées.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 134,
+    "question": "Taux alcoolémie max (conducteur confirmé) ?",
+    "choix": [
+      "0,5 g/L sang",
+      "0,8 g/L",
+      "0,2 g/L",
+      "0 g/L"
+    ],
+    "bonne_reponse": "0,5 g/L sang",
+    "explication": "0,5 g/L max confirmé, 0,2 g/L jeune.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 135,
+    "question": "Vitesse élimination alcool :",
+    "choix": [
+      "0,15 g/L/h",
+      "0,5 g/L/h",
+      "0,1 g/L/h",
+      "1 g/L/h"
+    ],
+    "bonne_reponse": "0,15 g/L/h",
+    "explication": "≈ 0,15 g/L éliminé par heure.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 136,
+    "question": "Refuser dépistage alcool/drogue :",
+    "choix": [
+      "Même sanction que positif",
+      "Amende légère",
+      "Rien",
+      "Stage seul"
+    ],
+    "bonne_reponse": "Même sanction que positif",
+    "explication": "Refus = même sanction que contrôle positif.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 137,
+    "question": "Conduite alcoolisée : retrait points ?",
+    "choix": [
+      "6 points",
+      "3 points",
+      "1 point",
+      "12 points"
+    ],
+    "bonne_reponse": "6 points",
+    "explication": "Alcool = retrait 6 points.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 138,
+    "question": "Taux alcoolémie max (conducteur confirmé) ?",
+    "choix": [
+      "0,5 g/L sang",
+      "0,8 g/L",
+      "0,2 g/L",
+      "0 g/L"
+    ],
+    "bonne_reponse": "0,5 g/L sang",
+    "explication": "0,5 g/L max confirmé, 0,2 g/L jeune.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 139,
+    "question": "Vitesse élimination alcool :",
+    "choix": [
+      "0,15 g/L/h",
+      "0,5 g/L/h",
+      "0,1 g/L/h",
+      "1 g/L/h"
+    ],
+    "bonne_reponse": "0,15 g/L/h",
+    "explication": "≈ 0,15 g/L éliminé par heure.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 140,
+    "question": "Cannabis : durée détection dans sang ?",
+    "choix": [
+      "Plusieurs jours/semaines",
+      "1 heure",
+      "1 jour",
+      "1 semaine max"
+    ],
+    "bonne_reponse": "Plusieurs jours/semaines",
+    "explication": "Cannabis détectable plusieurs jours voire semaines.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 141,
+    "question": "Alcoolémie > 0,8 g/L : sanction ?",
+    "choix": [
+      "Délit pénal",
+      "Amende simple",
+      "Avertissement",
+      "Stage"
+    ],
+    "bonne_reponse": "Délit pénal",
+    "explication": "> 0,8 g/L = délit : tribunal, retrait, prison possible.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 142,
+    "question": "Taux alcoolémie max (conducteur confirmé) ?",
+    "choix": [
+      "0,5 g/L sang",
+      "0,8 g/L",
+      "0,2 g/L",
+      "0 g/L"
+    ],
+    "bonne_reponse": "0,5 g/L sang",
+    "explication": "0,5 g/L max confirmé, 0,2 g/L jeune.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 143,
+    "question": "Vitesse élimination alcool :",
+    "choix": [
+      "0,15 g/L/h",
+      "0,5 g/L/h",
+      "0,1 g/L/h",
+      "1 g/L/h"
+    ],
+    "bonne_reponse": "0,15 g/L/h",
+    "explication": "≈ 0,15 g/L éliminé par heure.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 144,
+    "question": "Dépistage drogue positif (sans ivresse) :",
+    "choix": [
+      "Retrait permis + prison",
+      "Amende",
+      "Avertissement",
+      "Stage"
+    ],
+    "bonne_reponse": "Retrait permis + prison",
+    "explication": "Conduite stupéfiants = délit : 2 ans prison, retrait.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 145,
+    "question": "Alcool + drogue : sanction ?",
+    "choix": [
+      "Cumulées",
+      "Une seule",
+      "Réduite",
+      "Aucune"
+    ],
+    "bonne_reponse": "Cumulées",
+    "explication": "Alcool + drogue = sanctions cumulées.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 146,
+    "question": "Taux alcoolémie max (conducteur confirmé) ?",
+    "choix": [
+      "0,5 g/L sang",
+      "0,8 g/L",
+      "0,2 g/L",
+      "0 g/L"
+    ],
+    "bonne_reponse": "0,5 g/L sang",
+    "explication": "0,5 g/L max confirmé, 0,2 g/L jeune.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 147,
+    "question": "Vitesse élimination alcool :",
+    "choix": [
+      "0,15 g/L/h",
+      "0,5 g/L/h",
+      "0,1 g/L/h",
+      "1 g/L/h"
+    ],
+    "bonne_reponse": "0,15 g/L/h",
+    "explication": "≈ 0,15 g/L éliminé par heure.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 148,
+    "question": "Refuser dépistage alcool/drogue :",
+    "choix": [
+      "Même sanction que positif",
+      "Amende légère",
+      "Rien",
+      "Stage seul"
+    ],
+    "bonne_reponse": "Même sanction que positif",
+    "explication": "Refus = même sanction que contrôle positif.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 149,
+    "question": "Conduite alcoolisée : retrait points ?",
+    "choix": [
+      "6 points",
+      "3 points",
+      "1 point",
+      "12 points"
+    ],
+    "bonne_reponse": "6 points",
+    "explication": "Alcool = retrait 6 points.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 150,
+    "question": "Taux alcoolémie max (conducteur confirmé) ?",
+    "choix": [
+      "0,5 g/L sang",
+      "0,8 g/L",
+      "0,2 g/L",
+      "0 g/L"
+    ],
+    "bonne_reponse": "0,5 g/L sang",
+    "explication": "0,5 g/L max confirmé, 0,2 g/L jeune.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 151,
+    "question": "Vitesse élimination alcool :",
+    "choix": [
+      "0,15 g/L/h",
+      "0,5 g/L/h",
+      "0,1 g/L/h",
+      "1 g/L/h"
+    ],
+    "bonne_reponse": "0,15 g/L/h",
+    "explication": "≈ 0,15 g/L éliminé par heure.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 152,
+    "question": "Cannabis : durée détection dans sang ?",
+    "choix": [
+      "Plusieurs jours/semaines",
+      "1 heure",
+      "1 jour",
+      "1 semaine max"
+    ],
+    "bonne_reponse": "Plusieurs jours/semaines",
+    "explication": "Cannabis détectable plusieurs jours voire semaines.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 153,
+    "question": "Alcoolémie > 0,8 g/L : sanction ?",
+    "choix": [
+      "Délit pénal",
+      "Amende simple",
+      "Avertissement",
+      "Stage"
+    ],
+    "bonne_reponse": "Délit pénal",
+    "explication": "> 0,8 g/L = délit : tribunal, retrait, prison possible.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 154,
+    "question": "Taux alcoolémie max (conducteur confirmé) ?",
+    "choix": [
+      "0,5 g/L sang",
+      "0,8 g/L",
+      "0,2 g/L",
+      "0 g/L"
+    ],
+    "bonne_reponse": "0,5 g/L sang",
+    "explication": "0,5 g/L max confirmé, 0,2 g/L jeune.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 155,
+    "question": "Vitesse élimination alcool :",
+    "choix": [
+      "0,15 g/L/h",
+      "0,5 g/L/h",
+      "0,1 g/L/h",
+      "1 g/L/h"
+    ],
+    "bonne_reponse": "0,15 g/L/h",
+    "explication": "≈ 0,15 g/L éliminé par heure.",
+    "theme": "Alcool & Drogues"
+  },
+  {
+    "id": 156,
+    "question": "Port ceinture obligatoire :",
+    "choix": [
+      "Avant ET arrière",
+      "Avant uniquement",
+      "Autoroute seule",
+      "Hors ville"
+    ],
+    "bonne_reponse": "Avant ET arrière",
+    "explication": "Ceinture obligatoire partout, avant ET arrière.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 157,
+    "question": "Bébé < 1 an : position siège ?",
+    "choix": [
+      "Dos route",
+      "Face route",
+      "Debout",
+      "Couché"
+    ],
+    "bonne_reponse": "Dos route",
+    "explication": "Bébé dos à la route (nacelle/cosy).",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 158,
+    "question": "Éthylotest : obligatoire ?",
+    "choix": [
+      "Non (recommandé)",
+      "Oui obligatoire",
+      "Uniquement pro",
+      "Interdit"
+    ],
+    "bonne_reponse": "Non (recommandé)",
+    "explication": "Plus obligatoire mais fortement recommandé.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 159,
+    "question": "Panne tunnel : que faire ?",
+    "choix": [
+      "Arrêt, moteur coupé, sortir",
+      "Continuer",
+      "Rester dedans",
+      "Faire demi-tour"
+    ],
+    "bonne_reponse": "Arrêt, moteur coupé, sortir",
+    "explication": "Arrêt immédiat, moteur coupé, évacuation.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 160,
+    "question": "Port ceinture obligatoire :",
+    "choix": [
+      "Avant ET arrière",
+      "Avant uniquement",
+      "Autoroute seule",
+      "Hors ville"
+    ],
+    "bonne_reponse": "Avant ET arrière",
+    "explication": "Ceinture obligatoire partout, avant ET arrière.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 161,
+    "question": "Bébé < 1 an : position siège ?",
+    "choix": [
+      "Dos route",
+      "Face route",
+      "Debout",
+      "Couché"
+    ],
+    "bonne_reponse": "Dos route",
+    "explication": "Bébé dos à la route (nacelle/cosy).",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 162,
+    "question": "Éthylotest : obligatoire ?",
+    "choix": [
+      "Non (recommandé)",
+      "Oui obligatoire",
+      "Uniquement pro",
+      "Interdit"
+    ],
+    "bonne_reponse": "Non (recommandé)",
+    "explication": "Plus obligatoire mais fortement recommandé.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 163,
+    "question": "Panne tunnel : que faire ?",
+    "choix": [
+      "Arrêt, moteur coupé, sortir",
+      "Continuer",
+      "Rester dedans",
+      "Faire demi-tour"
+    ],
+    "bonne_reponse": "Arrêt, moteur coupé, sortir",
+    "explication": "Arrêt immédiat, moteur coupé, évacuation.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 164,
+    "question": "Port ceinture obligatoire :",
+    "choix": [
+      "Avant ET arrière",
+      "Avant uniquement",
+      "Autoroute seule",
+      "Hors ville"
+    ],
+    "bonne_reponse": "Avant ET arrière",
+    "explication": "Ceinture obligatoire partout, avant ET arrière.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 165,
+    "question": "Bébé < 1 an : position siège ?",
+    "choix": [
+      "Dos route",
+      "Face route",
+      "Debout",
+      "Couché"
+    ],
+    "bonne_reponse": "Dos route",
+    "explication": "Bébé dos à la route (nacelle/cosy).",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 166,
+    "question": "Éthylotest : obligatoire ?",
+    "choix": [
+      "Non (recommandé)",
+      "Oui obligatoire",
+      "Uniquement pro",
+      "Interdit"
+    ],
+    "bonne_reponse": "Non (recommandé)",
+    "explication": "Plus obligatoire mais fortement recommandé.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 167,
+    "question": "Panne tunnel : que faire ?",
+    "choix": [
+      "Arrêt, moteur coupé, sortir",
+      "Continuer",
+      "Rester dedans",
+      "Faire demi-tour"
+    ],
+    "bonne_reponse": "Arrêt, moteur coupé, sortir",
+    "explication": "Arrêt immédiat, moteur coupé, évacuation.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 168,
+    "question": "Port ceinture obligatoire :",
+    "choix": [
+      "Avant ET arrière",
+      "Avant uniquement",
+      "Autoroute seule",
+      "Hors ville"
+    ],
+    "bonne_reponse": "Avant ET arrière",
+    "explication": "Ceinture obligatoire partout, avant ET arrière.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 169,
+    "question": "Bébé < 1 an : position siège ?",
+    "choix": [
+      "Dos route",
+      "Face route",
+      "Debout",
+      "Couché"
+    ],
+    "bonne_reponse": "Dos route",
+    "explication": "Bébé dos à la route (nacelle/cosy).",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 170,
+    "question": "Éthylotest : obligatoire ?",
+    "choix": [
+      "Non (recommandé)",
+      "Oui obligatoire",
+      "Uniquement pro",
+      "Interdit"
+    ],
+    "bonne_reponse": "Non (recommandé)",
+    "explication": "Plus obligatoire mais fortement recommandé.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 171,
+    "question": "Panne tunnel : que faire ?",
+    "choix": [
+      "Arrêt, moteur coupé, sortir",
+      "Continuer",
+      "Rester dedans",
+      "Faire demi-tour"
+    ],
+    "bonne_reponse": "Arrêt, moteur coupé, sortir",
+    "explication": "Arrêt immédiat, moteur coupé, évacuation.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 172,
+    "question": "Port ceinture obligatoire :",
+    "choix": [
+      "Avant ET arrière",
+      "Avant uniquement",
+      "Autoroute seule",
+      "Hors ville"
+    ],
+    "bonne_reponse": "Avant ET arrière",
+    "explication": "Ceinture obligatoire partout, avant ET arrière.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 173,
+    "question": "Bébé < 1 an : position siège ?",
+    "choix": [
+      "Dos route",
+      "Face route",
+      "Debout",
+      "Couché"
+    ],
+    "bonne_reponse": "Dos route",
+    "explication": "Bébé dos à la route (nacelle/cosy).",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 174,
+    "question": "Éthylotest : obligatoire ?",
+    "choix": [
+      "Non (recommandé)",
+      "Oui obligatoire",
+      "Uniquement pro",
+      "Interdit"
+    ],
+    "bonne_reponse": "Non (recommandé)",
+    "explication": "Plus obligatoire mais fortement recommandé.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 175,
+    "question": "Panne tunnel : que faire ?",
+    "choix": [
+      "Arrêt, moteur coupé, sortir",
+      "Continuer",
+      "Rester dedans",
+      "Faire demi-tour"
+    ],
+    "bonne_reponse": "Arrêt, moteur coupé, sortir",
+    "explication": "Arrêt immédiat, moteur coupé, évacuation.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 176,
+    "question": "Port ceinture obligatoire :",
+    "choix": [
+      "Avant ET arrière",
+      "Avant uniquement",
+      "Autoroute seule",
+      "Hors ville"
+    ],
+    "bonne_reponse": "Avant ET arrière",
+    "explication": "Ceinture obligatoire partout, avant ET arrière.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 177,
+    "question": "Bébé < 1 an : position siège ?",
+    "choix": [
+      "Dos route",
+      "Face route",
+      "Debout",
+      "Couché"
+    ],
+    "bonne_reponse": "Dos route",
+    "explication": "Bébé dos à la route (nacelle/cosy).",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 178,
+    "question": "Éthylotest : obligatoire ?",
+    "choix": [
+      "Non (recommandé)",
+      "Oui obligatoire",
+      "Uniquement pro",
+      "Interdit"
+    ],
+    "bonne_reponse": "Non (recommandé)",
+    "explication": "Plus obligatoire mais fortement recommandé.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 179,
+    "question": "Panne tunnel : que faire ?",
+    "choix": [
+      "Arrêt, moteur coupé, sortir",
+      "Continuer",
+      "Rester dedans",
+      "Faire demi-tour"
+    ],
+    "bonne_reponse": "Arrêt, moteur coupé, sortir",
+    "explication": "Arrêt immédiat, moteur coupé, évacuation.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 180,
+    "question": "Port ceinture obligatoire :",
+    "choix": [
+      "Avant ET arrière",
+      "Avant uniquement",
+      "Autoroute seule",
+      "Hors ville"
+    ],
+    "bonne_reponse": "Avant ET arrière",
+    "explication": "Ceinture obligatoire partout, avant ET arrière.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 181,
+    "question": "Bébé < 1 an : position siège ?",
+    "choix": [
+      "Dos route",
+      "Face route",
+      "Debout",
+      "Couché"
+    ],
+    "bonne_reponse": "Dos route",
+    "explication": "Bébé dos à la route (nacelle/cosy).",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 182,
+    "question": "Éthylotest : obligatoire ?",
+    "choix": [
+      "Non (recommandé)",
+      "Oui obligatoire",
+      "Uniquement pro",
+      "Interdit"
+    ],
+    "bonne_reponse": "Non (recommandé)",
+    "explication": "Plus obligatoire mais fortement recommandé.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 183,
+    "question": "Panne tunnel : que faire ?",
+    "choix": [
+      "Arrêt, moteur coupé, sortir",
+      "Continuer",
+      "Rester dedans",
+      "Faire demi-tour"
+    ],
+    "bonne_reponse": "Arrêt, moteur coupé, sortir",
+    "explication": "Arrêt immédiat, moteur coupé, évacuation.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 184,
+    "question": "Port ceinture obligatoire :",
+    "choix": [
+      "Avant ET arrière",
+      "Avant uniquement",
+      "Autoroute seule",
+      "Hors ville"
+    ],
+    "bonne_reponse": "Avant ET arrière",
+    "explication": "Ceinture obligatoire partout, avant ET arrière.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 185,
+    "question": "Bébé < 1 an : position siège ?",
+    "choix": [
+      "Dos route",
+      "Face route",
+      "Debout",
+      "Couché"
+    ],
+    "bonne_reponse": "Dos route",
+    "explication": "Bébé dos à la route (nacelle/cosy).",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 186,
+    "question": "Éthylotest : obligatoire ?",
+    "choix": [
+      "Non (recommandé)",
+      "Oui obligatoire",
+      "Uniquement pro",
+      "Interdit"
+    ],
+    "bonne_reponse": "Non (recommandé)",
+    "explication": "Plus obligatoire mais fortement recommandé.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 187,
+    "question": "Panne tunnel : que faire ?",
+    "choix": [
+      "Arrêt, moteur coupé, sortir",
+      "Continuer",
+      "Rester dedans",
+      "Faire demi-tour"
+    ],
+    "bonne_reponse": "Arrêt, moteur coupé, sortir",
+    "explication": "Arrêt immédiat, moteur coupé, évacuation.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 188,
+    "question": "Port ceinture obligatoire :",
+    "choix": [
+      "Avant ET arrière",
+      "Avant uniquement",
+      "Autoroute seule",
+      "Hors ville"
+    ],
+    "bonne_reponse": "Avant ET arrière",
+    "explication": "Ceinture obligatoire partout, avant ET arrière.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 189,
+    "question": "Bébé < 1 an : position siège ?",
+    "choix": [
+      "Dos route",
+      "Face route",
+      "Debout",
+      "Couché"
+    ],
+    "bonne_reponse": "Dos route",
+    "explication": "Bébé dos à la route (nacelle/cosy).",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 190,
+    "question": "Éthylotest : obligatoire ?",
+    "choix": [
+      "Non (recommandé)",
+      "Oui obligatoire",
+      "Uniquement pro",
+      "Interdit"
+    ],
+    "bonne_reponse": "Non (recommandé)",
+    "explication": "Plus obligatoire mais fortement recommandé.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 191,
+    "question": "Panne tunnel : que faire ?",
+    "choix": [
+      "Arrêt, moteur coupé, sortir",
+      "Continuer",
+      "Rester dedans",
+      "Faire demi-tour"
+    ],
+    "bonne_reponse": "Arrêt, moteur coupé, sortir",
+    "explication": "Arrêt immédiat, moteur coupé, évacuation.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 192,
+    "question": "Port ceinture obligatoire :",
+    "choix": [
+      "Avant ET arrière",
+      "Avant uniquement",
+      "Autoroute seule",
+      "Hors ville"
+    ],
+    "bonne_reponse": "Avant ET arrière",
+    "explication": "Ceinture obligatoire partout, avant ET arrière.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 193,
+    "question": "Bébé < 1 an : position siège ?",
+    "choix": [
+      "Dos route",
+      "Face route",
+      "Debout",
+      "Couché"
+    ],
+    "bonne_reponse": "Dos route",
+    "explication": "Bébé dos à la route (nacelle/cosy).",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 194,
+    "question": "Éthylotest : obligatoire ?",
+    "choix": [
+      "Non (recommandé)",
+      "Oui obligatoire",
+      "Uniquement pro",
+      "Interdit"
+    ],
+    "bonne_reponse": "Non (recommandé)",
+    "explication": "Plus obligatoire mais fortement recommandé.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 195,
+    "question": "Panne tunnel : que faire ?",
+    "choix": [
+      "Arrêt, moteur coupé, sortir",
+      "Continuer",
+      "Rester dedans",
+      "Faire demi-tour"
+    ],
+    "bonne_reponse": "Arrêt, moteur coupé, sortir",
+    "explication": "Arrêt immédiat, moteur coupé, évacuation.",
+    "theme": "Sécurité"
+  },
+  {
+    "id": 196,
+    "question": "Vision rétroviseur intérieur :",
+    "choix": [
+      "Partielle, angle mort",
+      "Tout arrière",
+      "180°",
+      "Route seule"
+    ],
+    "bonne_reponse": "Partielle, angle mort",
+    "explication": "Rétroviseurs ne montrent pas tout : angles morts.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 197,
+    "question": "Kit mains-libres : autorisé ?",
+    "choix": [
+      "Oui mais déconseillé",
+      "Interdit",
+      "Obligatoire",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Oui mais déconseillé",
+    "explication": "Kit autorisé mais réduit vigilance.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 198,
+    "question": "Conduite nuit : risques ?",
+    "choix": [
+      "Fatigue + visibilité",
+      "Aucun",
+      "Meilleur",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Fatigue + visibilité",
+    "explication": "Nuit = fatigue accrue + visibilité réduite.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 199,
+    "question": "Changer de file : vérification ?",
+    "choix": [
+      "Rétro + angle mort",
+      "Rétro seul",
+      "Rien",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Rétro + angle mort",
+    "explication": "Rétro + tourner tête obligatoire.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 200,
+    "question": "Vision rétroviseur intérieur :",
+    "choix": [
+      "Partielle, angle mort",
+      "Tout arrière",
+      "180°",
+      "Route seule"
+    ],
+    "bonne_reponse": "Partielle, angle mort",
+    "explication": "Rétroviseurs ne montrent pas tout : angles morts.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 201,
+    "question": "Kit mains-libres : autorisé ?",
+    "choix": [
+      "Oui mais déconseillé",
+      "Interdit",
+      "Obligatoire",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Oui mais déconseillé",
+    "explication": "Kit autorisé mais réduit vigilance.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 202,
+    "question": "Conduite nuit : risques ?",
+    "choix": [
+      "Fatigue + visibilité",
+      "Aucun",
+      "Meilleur",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Fatigue + visibilité",
+    "explication": "Nuit = fatigue accrue + visibilité réduite.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 203,
+    "question": "Moto dans angle mort :",
+    "choix": [
+      "Très fréquent",
+      "Rare",
+      "Impossible",
+      "Jamais"
+    ],
+    "bonne_reponse": "Très fréquent",
+    "explication": "Motos souvent dans angles morts.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 204,
+    "question": "Vision rétroviseur intérieur :",
+    "choix": [
+      "Partielle, angle mort",
+      "Tout arrière",
+      "180°",
+      "Route seule"
+    ],
+    "bonne_reponse": "Partielle, angle mort",
+    "explication": "Rétroviseurs ne montrent pas tout : angles morts.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 205,
+    "question": "Kit mains-libres : autorisé ?",
+    "choix": [
+      "Oui mais déconseillé",
+      "Interdit",
+      "Obligatoire",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Oui mais déconseillé",
+    "explication": "Kit autorisé mais réduit vigilance.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 206,
+    "question": "Conduite nuit : risques ?",
+    "choix": [
+      "Fatigue + visibilité",
+      "Aucun",
+      "Meilleur",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Fatigue + visibilité",
+    "explication": "Nuit = fatigue accrue + visibilité réduite.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 207,
+    "question": "Rétroviseurs bien réglés :",
+    "choix": [
+      "Éliminent pas angles morts",
+      "Éliminent angles morts",
+      "Inutiles",
+      "Suffisent"
+    ],
+    "bonne_reponse": "Éliminent pas angles morts",
+    "explication": "Même bien réglés, angles morts subsistent.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 208,
+    "question": "Vision rétroviseur intérieur :",
+    "choix": [
+      "Partielle, angle mort",
+      "Tout arrière",
+      "180°",
+      "Route seule"
+    ],
+    "bonne_reponse": "Partielle, angle mort",
+    "explication": "Rétroviseurs ne montrent pas tout : angles morts.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 209,
+    "question": "Kit mains-libres : autorisé ?",
+    "choix": [
+      "Oui mais déconseillé",
+      "Interdit",
+      "Obligatoire",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Oui mais déconseillé",
+    "explication": "Kit autorisé mais réduit vigilance.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 210,
+    "question": "Conduite nuit : risques ?",
+    "choix": [
+      "Fatigue + visibilité",
+      "Aucun",
+      "Meilleur",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Fatigue + visibilité",
+    "explication": "Nuit = fatigue accrue + visibilité réduite.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 211,
+    "question": "Changer de file : vérification ?",
+    "choix": [
+      "Rétro + angle mort",
+      "Rétro seul",
+      "Rien",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Rétro + angle mort",
+    "explication": "Rétro + tourner tête obligatoire.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 212,
+    "question": "Vision rétroviseur intérieur :",
+    "choix": [
+      "Partielle, angle mort",
+      "Tout arrière",
+      "180°",
+      "Route seule"
+    ],
+    "bonne_reponse": "Partielle, angle mort",
+    "explication": "Rétroviseurs ne montrent pas tout : angles morts.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 213,
+    "question": "Kit mains-libres : autorisé ?",
+    "choix": [
+      "Oui mais déconseillé",
+      "Interdit",
+      "Obligatoire",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Oui mais déconseillé",
+    "explication": "Kit autorisé mais réduit vigilance.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 214,
+    "question": "Conduite nuit : risques ?",
+    "choix": [
+      "Fatigue + visibilité",
+      "Aucun",
+      "Meilleur",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Fatigue + visibilité",
+    "explication": "Nuit = fatigue accrue + visibilité réduite.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 215,
+    "question": "Moto dans angle mort :",
+    "choix": [
+      "Très fréquent",
+      "Rare",
+      "Impossible",
+      "Jamais"
+    ],
+    "bonne_reponse": "Très fréquent",
+    "explication": "Motos souvent dans angles morts.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 216,
+    "question": "Vision rétroviseur intérieur :",
+    "choix": [
+      "Partielle, angle mort",
+      "Tout arrière",
+      "180°",
+      "Route seule"
+    ],
+    "bonne_reponse": "Partielle, angle mort",
+    "explication": "Rétroviseurs ne montrent pas tout : angles morts.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 217,
+    "question": "Kit mains-libres : autorisé ?",
+    "choix": [
+      "Oui mais déconseillé",
+      "Interdit",
+      "Obligatoire",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Oui mais déconseillé",
+    "explication": "Kit autorisé mais réduit vigilance.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 218,
+    "question": "Conduite nuit : risques ?",
+    "choix": [
+      "Fatigue + visibilité",
+      "Aucun",
+      "Meilleur",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Fatigue + visibilité",
+    "explication": "Nuit = fatigue accrue + visibilité réduite.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 219,
+    "question": "Rétroviseurs bien réglés :",
+    "choix": [
+      "Éliminent pas angles morts",
+      "Éliminent angles morts",
+      "Inutiles",
+      "Suffisent"
+    ],
+    "bonne_reponse": "Éliminent pas angles morts",
+    "explication": "Même bien réglés, angles morts subsistent.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 220,
+    "question": "Vision rétroviseur intérieur :",
+    "choix": [
+      "Partielle, angle mort",
+      "Tout arrière",
+      "180°",
+      "Route seule"
+    ],
+    "bonne_reponse": "Partielle, angle mort",
+    "explication": "Rétroviseurs ne montrent pas tout : angles morts.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 221,
+    "question": "Kit mains-libres : autorisé ?",
+    "choix": [
+      "Oui mais déconseillé",
+      "Interdit",
+      "Obligatoire",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Oui mais déconseillé",
+    "explication": "Kit autorisé mais réduit vigilance.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 222,
+    "question": "Conduite nuit : risques ?",
+    "choix": [
+      "Fatigue + visibilité",
+      "Aucun",
+      "Meilleur",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Fatigue + visibilité",
+    "explication": "Nuit = fatigue accrue + visibilité réduite.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 223,
+    "question": "Changer de file : vérification ?",
+    "choix": [
+      "Rétro + angle mort",
+      "Rétro seul",
+      "Rien",
+      "Klaxonner"
+    ],
+    "bonne_reponse": "Rétro + angle mort",
+    "explication": "Rétro + tourner tête obligatoire.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 224,
+    "question": "Vision rétroviseur intérieur :",
+    "choix": [
+      "Partielle, angle mort",
+      "Tout arrière",
+      "180°",
+      "Route seule"
+    ],
+    "bonne_reponse": "Partielle, angle mort",
+    "explication": "Rétroviseurs ne montrent pas tout : angles morts.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 225,
+    "question": "Kit mains-libres : autorisé ?",
+    "choix": [
+      "Oui mais déconseillé",
+      "Interdit",
+      "Obligatoire",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Oui mais déconseillé",
+    "explication": "Kit autorisé mais réduit vigilance.",
+    "theme": "Conducteur"
+  },
+  {
+    "id": 226,
+    "question": "Brouillard visibilité < 50m : vitesse max ?",
+    "choix": [
+      "50 km/h",
+      "90 km/h",
+      "70 km/h",
+      "30 km/h"
+    ],
+    "bonne_reponse": "50 km/h",
+    "explication": "Brouillard épais (<50m) = 50 km/h maximum.",
+    "theme": "Route"
+  },
+  {
+    "id": 227,
+    "question": "Arrêt sur autoroute autorisé :",
+    "choix": [
+      "BAU panne/urgence",
+      "N'importe où",
+      "Voie circulation",
+      "Jamais"
+    ],
+    "bonne_reponse": "BAU panne/urgence",
+    "explication": "Arrêt uniquement BAU et urgence.",
+    "theme": "Route"
+  },
+  {
+    "id": 228,
+    "question": "Feux dans tunnel :",
+    "choix": [
+      "Croisement obligatoire",
+      "Route",
+      "Rien",
+      "Brouillard"
+    ],
+    "bonne_reponse": "Croisement obligatoire",
+    "explication": "Feux de croisement obligatoires en tunnel.",
+    "theme": "Route"
+  },
+  {
+    "id": 229,
+    "question": "Cause aquaplaning :",
+    "choix": [
+      "Eau + vitesse + pneus",
+      "Vitesse seule",
+      "Pneus seuls",
+      "Hasard"
+    ],
+    "bonne_reponse": "Eau + vitesse + pneus",
+    "explication": "Aquaplaning = eau sur route + vitesse élevée + pneus usés.",
+    "theme": "Route"
+  },
+  {
+    "id": 230,
+    "question": "Brouillard visibilité < 50m : vitesse max ?",
+    "choix": [
+      "50 km/h",
+      "90 km/h",
+      "70 km/h",
+      "30 km/h"
+    ],
+    "bonne_reponse": "50 km/h",
+    "explication": "Brouillard épais (<50m) = 50 km/h maximum.",
+    "theme": "Route"
+  },
+  {
+    "id": 231,
+    "question": "Arrêt sur autoroute autorisé :",
+    "choix": [
+      "BAU panne/urgence",
+      "N'importe où",
+      "Voie circulation",
+      "Jamais"
+    ],
+    "bonne_reponse": "BAU panne/urgence",
+    "explication": "Arrêt uniquement BAU et urgence.",
+    "theme": "Route"
+  },
+  {
+    "id": 232,
+    "question": "Feux dans tunnel :",
+    "choix": [
+      "Croisement obligatoire",
+      "Route",
+      "Rien",
+      "Brouillard"
+    ],
+    "bonne_reponse": "Croisement obligatoire",
+    "explication": "Feux de croisement obligatoires en tunnel.",
+    "theme": "Route"
+  },
+  {
+    "id": 233,
+    "question": "Prévenir aquaplaning :",
+    "choix": [
+      "Ralentir, pneus OK",
+      "Accélérer",
+      "Freiner",
+      "Rien"
+    ],
+    "bonne_reponse": "Ralentir, pneus OK",
+    "explication": "Prévention = réduire vitesse + pneus bon état.",
+    "theme": "Route"
+  },
+  {
+    "id": 234,
+    "question": "Brouillard visibilité < 50m : vitesse max ?",
+    "choix": [
+      "50 km/h",
+      "90 km/h",
+      "70 km/h",
+      "30 km/h"
+    ],
+    "bonne_reponse": "50 km/h",
+    "explication": "Brouillard épais (<50m) = 50 km/h maximum.",
+    "theme": "Route"
+  },
+  {
+    "id": 235,
+    "question": "Arrêt sur autoroute autorisé :",
+    "choix": [
+      "BAU panne/urgence",
+      "N'importe où",
+      "Voie circulation",
+      "Jamais"
+    ],
+    "bonne_reponse": "BAU panne/urgence",
+    "explication": "Arrêt uniquement BAU et urgence.",
+    "theme": "Route"
+  },
+  {
+    "id": 236,
+    "question": "Feux dans tunnel :",
+    "choix": [
+      "Croisement obligatoire",
+      "Route",
+      "Rien",
+      "Brouillard"
+    ],
+    "bonne_reponse": "Croisement obligatoire",
+    "explication": "Feux de croisement obligatoires en tunnel.",
+    "theme": "Route"
+  },
+  {
+    "id": 237,
+    "question": "Sensation aquaplaning :",
+    "choix": [
+      "Perte adhérence/direction",
+      "Rien",
+      "Meilleure tenue",
+      "Accélération"
+    ],
+    "bonne_reponse": "Perte adhérence/direction",
+    "explication": "Sensation direction légère, perte contrôle.",
+    "theme": "Route"
+  },
+  {
+    "id": 238,
+    "question": "Brouillard visibilité < 50m : vitesse max ?",
+    "choix": [
+      "50 km/h",
+      "90 km/h",
+      "70 km/h",
+      "30 km/h"
+    ],
+    "bonne_reponse": "50 km/h",
+    "explication": "Brouillard épais (<50m) = 50 km/h maximum.",
+    "theme": "Route"
+  },
+  {
+    "id": 239,
+    "question": "Arrêt sur autoroute autorisé :",
+    "choix": [
+      "BAU panne/urgence",
+      "N'importe où",
+      "Voie circulation",
+      "Jamais"
+    ],
+    "bonne_reponse": "BAU panne/urgence",
+    "explication": "Arrêt uniquement BAU et urgence.",
+    "theme": "Route"
+  },
+  {
+    "id": 240,
+    "question": "Feux dans tunnel :",
+    "choix": [
+      "Croisement obligatoire",
+      "Route",
+      "Rien",
+      "Brouillard"
+    ],
+    "bonne_reponse": "Croisement obligatoire",
+    "explication": "Feux de croisement obligatoires en tunnel.",
+    "theme": "Route"
+  },
+  {
+    "id": 241,
+    "question": "Cause aquaplaning :",
+    "choix": [
+      "Eau + vitesse + pneus",
+      "Vitesse seule",
+      "Pneus seuls",
+      "Hasard"
+    ],
+    "bonne_reponse": "Eau + vitesse + pneus",
+    "explication": "Aquaplaning = eau sur route + vitesse élevée + pneus usés.",
+    "theme": "Route"
+  },
+  {
+    "id": 242,
+    "question": "Brouillard visibilité < 50m : vitesse max ?",
+    "choix": [
+      "50 km/h",
+      "90 km/h",
+      "70 km/h",
+      "30 km/h"
+    ],
+    "bonne_reponse": "50 km/h",
+    "explication": "Brouillard épais (<50m) = 50 km/h maximum.",
+    "theme": "Route"
+  },
+  {
+    "id": 243,
+    "question": "Arrêt sur autoroute autorisé :",
+    "choix": [
+      "BAU panne/urgence",
+      "N'importe où",
+      "Voie circulation",
+      "Jamais"
+    ],
+    "bonne_reponse": "BAU panne/urgence",
+    "explication": "Arrêt uniquement BAU et urgence.",
+    "theme": "Route"
+  },
+  {
+    "id": 244,
+    "question": "Feux dans tunnel :",
+    "choix": [
+      "Croisement obligatoire",
+      "Route",
+      "Rien",
+      "Brouillard"
+    ],
+    "bonne_reponse": "Croisement obligatoire",
+    "explication": "Feux de croisement obligatoires en tunnel.",
+    "theme": "Route"
+  },
+  {
+    "id": 245,
+    "question": "Prévenir aquaplaning :",
+    "choix": [
+      "Ralentir, pneus OK",
+      "Accélérer",
+      "Freiner",
+      "Rien"
+    ],
+    "bonne_reponse": "Ralentir, pneus OK",
+    "explication": "Prévention = réduire vitesse + pneus bon état.",
+    "theme": "Route"
+  },
+  {
+    "id": 246,
+    "question": "Brouillard visibilité < 50m : vitesse max ?",
+    "choix": [
+      "50 km/h",
+      "90 km/h",
+      "70 km/h",
+      "30 km/h"
+    ],
+    "bonne_reponse": "50 km/h",
+    "explication": "Brouillard épais (<50m) = 50 km/h maximum.",
+    "theme": "Route"
+  },
+  {
+    "id": 247,
+    "question": "Arrêt sur autoroute autorisé :",
+    "choix": [
+      "BAU panne/urgence",
+      "N'importe où",
+      "Voie circulation",
+      "Jamais"
+    ],
+    "bonne_reponse": "BAU panne/urgence",
+    "explication": "Arrêt uniquement BAU et urgence.",
+    "theme": "Route"
+  },
+  {
+    "id": 248,
+    "question": "Feux dans tunnel :",
+    "choix": [
+      "Croisement obligatoire",
+      "Route",
+      "Rien",
+      "Brouillard"
+    ],
+    "bonne_reponse": "Croisement obligatoire",
+    "explication": "Feux de croisement obligatoires en tunnel.",
+    "theme": "Route"
+  },
+  {
+    "id": 249,
+    "question": "Sensation aquaplaning :",
+    "choix": [
+      "Perte adhérence/direction",
+      "Rien",
+      "Meilleure tenue",
+      "Accélération"
+    ],
+    "bonne_reponse": "Perte adhérence/direction",
+    "explication": "Sensation direction légère, perte contrôle.",
+    "theme": "Route"
+  },
+  {
+    "id": 250,
+    "question": "Brouillard visibilité < 50m : vitesse max ?",
+    "choix": [
+      "50 km/h",
+      "90 km/h",
+      "70 km/h",
+      "30 km/h"
+    ],
+    "bonne_reponse": "50 km/h",
+    "explication": "Brouillard épais (<50m) = 50 km/h maximum.",
+    "theme": "Route"
+  },
+  {
+    "id": 251,
+    "question": "Arrêt sur autoroute autorisé :",
+    "choix": [
+      "BAU panne/urgence",
+      "N'importe où",
+      "Voie circulation",
+      "Jamais"
+    ],
+    "bonne_reponse": "BAU panne/urgence",
+    "explication": "Arrêt uniquement BAU et urgence.",
+    "theme": "Route"
+  },
+  {
+    "id": 252,
+    "question": "Feux dans tunnel :",
+    "choix": [
+      "Croisement obligatoire",
+      "Route",
+      "Rien",
+      "Brouillard"
+    ],
+    "bonne_reponse": "Croisement obligatoire",
+    "explication": "Feux de croisement obligatoires en tunnel.",
+    "theme": "Route"
+  },
+  {
+    "id": 253,
+    "question": "Cause aquaplaning :",
+    "choix": [
+      "Eau + vitesse + pneus",
+      "Vitesse seule",
+      "Pneus seuls",
+      "Hasard"
+    ],
+    "bonne_reponse": "Eau + vitesse + pneus",
+    "explication": "Aquaplaning = eau sur route + vitesse élevée + pneus usés.",
+    "theme": "Route"
+  },
+  {
+    "id": 254,
+    "question": "Brouillard visibilité < 50m : vitesse max ?",
+    "choix": [
+      "50 km/h",
+      "90 km/h",
+      "70 km/h",
+      "30 km/h"
+    ],
+    "bonne_reponse": "50 km/h",
+    "explication": "Brouillard épais (<50m) = 50 km/h maximum.",
+    "theme": "Route"
+  },
+  {
+    "id": 255,
+    "question": "Arrêt sur autoroute autorisé :",
+    "choix": [
+      "BAU panne/urgence",
+      "N'importe où",
+      "Voie circulation",
+      "Jamais"
+    ],
+    "bonne_reponse": "BAU panne/urgence",
+    "explication": "Arrêt uniquement BAU et urgence.",
+    "theme": "Route"
+  },
+  {
+    "id": 256,
+    "question": "Feux dans tunnel :",
+    "choix": [
+      "Croisement obligatoire",
+      "Route",
+      "Rien",
+      "Brouillard"
+    ],
+    "bonne_reponse": "Croisement obligatoire",
+    "explication": "Feux de croisement obligatoires en tunnel.",
+    "theme": "Route"
+  },
+  {
+    "id": 257,
+    "question": "Prévenir aquaplaning :",
+    "choix": [
+      "Ralentir, pneus OK",
+      "Accélérer",
+      "Freiner",
+      "Rien"
+    ],
+    "bonne_reponse": "Ralentir, pneus OK",
+    "explication": "Prévention = réduire vitesse + pneus bon état.",
+    "theme": "Route"
+  },
+  {
+    "id": 258,
+    "question": "Brouillard visibilité < 50m : vitesse max ?",
+    "choix": [
+      "50 km/h",
+      "90 km/h",
+      "70 km/h",
+      "30 km/h"
+    ],
+    "bonne_reponse": "50 km/h",
+    "explication": "Brouillard épais (<50m) = 50 km/h maximum.",
+    "theme": "Route"
+  },
+  {
+    "id": 259,
+    "question": "Arrêt sur autoroute autorisé :",
+    "choix": [
+      "BAU panne/urgence",
+      "N'importe où",
+      "Voie circulation",
+      "Jamais"
+    ],
+    "bonne_reponse": "BAU panne/urgence",
+    "explication": "Arrêt uniquement BAU et urgence.",
+    "theme": "Route"
+  },
+  {
+    "id": 260,
+    "question": "Feux dans tunnel :",
+    "choix": [
+      "Croisement obligatoire",
+      "Route",
+      "Rien",
+      "Brouillard"
+    ],
+    "bonne_reponse": "Croisement obligatoire",
+    "explication": "Feux de croisement obligatoires en tunnel.",
+    "theme": "Route"
+  },
+  {
+    "id": 261,
+    "question": "Contrôle technique : fréquence ?",
+    "choix": [
+      "Tous les 2 ans (>4 ans)",
+      "Annuel",
+      "Tous les 5 ans",
+      "Jamais"
+    ],
+    "bonne_reponse": "Tous les 2 ans (>4 ans)",
+    "explication": "CT obligatoire tous les 2 ans pour véhicule > 4 ans.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 262,
+    "question": "Profondeur sculpture minimale légale :",
+    "choix": [
+      "1,6 mm",
+      "3 mm",
+      "5 mm",
+      "0 mm"
+    ],
+    "bonne_reponse": "1,6 mm",
+    "explication": "Minimum légal = 1,6 mm (témoin d'usure).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 263,
+    "question": "Liquide de frein : rôle ?",
+    "choix": [
+      "Transmet pression freinage",
+      "Refroidir",
+      "Nettoyer",
+      "Rien"
+    ],
+    "bonne_reponse": "Transmet pression freinage",
+    "explication": "Liquide transmet pression pédale vers freins.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 264,
+    "question": "Voyant pression pneu :",
+    "choix": [
+      "Vérifier gonflage",
+      "Ignorer",
+      "Normal",
+      "Crevaison"
+    ],
+    "bonne_reponse": "Vérifier gonflage",
+    "explication": "Voyant pneu = vérifier pression (perte possible).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 265,
+    "question": "Contrôle technique : fréquence ?",
+    "choix": [
+      "Tous les 2 ans (>4 ans)",
+      "Annuel",
+      "Tous les 5 ans",
+      "Jamais"
+    ],
+    "bonne_reponse": "Tous les 2 ans (>4 ans)",
+    "explication": "CT obligatoire tous les 2 ans pour véhicule > 4 ans.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 266,
+    "question": "Profondeur sculpture minimale légale :",
+    "choix": [
+      "1,6 mm",
+      "3 mm",
+      "5 mm",
+      "0 mm"
+    ],
+    "bonne_reponse": "1,6 mm",
+    "explication": "Minimum légal = 1,6 mm (témoin d'usure).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 267,
+    "question": "Liquide de frein : rôle ?",
+    "choix": [
+      "Transmet pression freinage",
+      "Refroidir",
+      "Nettoyer",
+      "Rien"
+    ],
+    "bonne_reponse": "Transmet pression freinage",
+    "explication": "Liquide transmet pression pédale vers freins.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 268,
+    "question": "Voyant pression pneu :",
+    "choix": [
+      "Vérifier gonflage",
+      "Ignorer",
+      "Normal",
+      "Crevaison"
+    ],
+    "bonne_reponse": "Vérifier gonflage",
+    "explication": "Voyant pneu = vérifier pression (perte possible).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 269,
+    "question": "Contrôle technique : fréquence ?",
+    "choix": [
+      "Tous les 2 ans (>4 ans)",
+      "Annuel",
+      "Tous les 5 ans",
+      "Jamais"
+    ],
+    "bonne_reponse": "Tous les 2 ans (>4 ans)",
+    "explication": "CT obligatoire tous les 2 ans pour véhicule > 4 ans.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 270,
+    "question": "Profondeur sculpture minimale légale :",
+    "choix": [
+      "1,6 mm",
+      "3 mm",
+      "5 mm",
+      "0 mm"
+    ],
+    "bonne_reponse": "1,6 mm",
+    "explication": "Minimum légal = 1,6 mm (témoin d'usure).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 271,
+    "question": "Liquide de frein : rôle ?",
+    "choix": [
+      "Transmet pression freinage",
+      "Refroidir",
+      "Nettoyer",
+      "Rien"
+    ],
+    "bonne_reponse": "Transmet pression freinage",
+    "explication": "Liquide transmet pression pédale vers freins.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 272,
+    "question": "Voyant pression pneu :",
+    "choix": [
+      "Vérifier gonflage",
+      "Ignorer",
+      "Normal",
+      "Crevaison"
+    ],
+    "bonne_reponse": "Vérifier gonflage",
+    "explication": "Voyant pneu = vérifier pression (perte possible).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 273,
+    "question": "Contrôle technique : fréquence ?",
+    "choix": [
+      "Tous les 2 ans (>4 ans)",
+      "Annuel",
+      "Tous les 5 ans",
+      "Jamais"
+    ],
+    "bonne_reponse": "Tous les 2 ans (>4 ans)",
+    "explication": "CT obligatoire tous les 2 ans pour véhicule > 4 ans.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 274,
+    "question": "Profondeur sculpture minimale légale :",
+    "choix": [
+      "1,6 mm",
+      "3 mm",
+      "5 mm",
+      "0 mm"
+    ],
+    "bonne_reponse": "1,6 mm",
+    "explication": "Minimum légal = 1,6 mm (témoin d'usure).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 275,
+    "question": "Liquide de frein : rôle ?",
+    "choix": [
+      "Transmet pression freinage",
+      "Refroidir",
+      "Nettoyer",
+      "Rien"
+    ],
+    "bonne_reponse": "Transmet pression freinage",
+    "explication": "Liquide transmet pression pédale vers freins.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 276,
+    "question": "Voyant pression pneu :",
+    "choix": [
+      "Vérifier gonflage",
+      "Ignorer",
+      "Normal",
+      "Crevaison"
+    ],
+    "bonne_reponse": "Vérifier gonflage",
+    "explication": "Voyant pneu = vérifier pression (perte possible).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 277,
+    "question": "Contrôle technique : fréquence ?",
+    "choix": [
+      "Tous les 2 ans (>4 ans)",
+      "Annuel",
+      "Tous les 5 ans",
+      "Jamais"
+    ],
+    "bonne_reponse": "Tous les 2 ans (>4 ans)",
+    "explication": "CT obligatoire tous les 2 ans pour véhicule > 4 ans.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 278,
+    "question": "Profondeur sculpture minimale légale :",
+    "choix": [
+      "1,6 mm",
+      "3 mm",
+      "5 mm",
+      "0 mm"
+    ],
+    "bonne_reponse": "1,6 mm",
+    "explication": "Minimum légal = 1,6 mm (témoin d'usure).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 279,
+    "question": "Liquide de frein : rôle ?",
+    "choix": [
+      "Transmet pression freinage",
+      "Refroidir",
+      "Nettoyer",
+      "Rien"
+    ],
+    "bonne_reponse": "Transmet pression freinage",
+    "explication": "Liquide transmet pression pédale vers freins.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 280,
+    "question": "Voyant pression pneu :",
+    "choix": [
+      "Vérifier gonflage",
+      "Ignorer",
+      "Normal",
+      "Crevaison"
+    ],
+    "bonne_reponse": "Vérifier gonflage",
+    "explication": "Voyant pneu = vérifier pression (perte possible).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 281,
+    "question": "Contrôle technique : fréquence ?",
+    "choix": [
+      "Tous les 2 ans (>4 ans)",
+      "Annuel",
+      "Tous les 5 ans",
+      "Jamais"
+    ],
+    "bonne_reponse": "Tous les 2 ans (>4 ans)",
+    "explication": "CT obligatoire tous les 2 ans pour véhicule > 4 ans.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 282,
+    "question": "Profondeur sculpture minimale légale :",
+    "choix": [
+      "1,6 mm",
+      "3 mm",
+      "5 mm",
+      "0 mm"
+    ],
+    "bonne_reponse": "1,6 mm",
+    "explication": "Minimum légal = 1,6 mm (témoin d'usure).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 283,
+    "question": "Liquide de frein : rôle ?",
+    "choix": [
+      "Transmet pression freinage",
+      "Refroidir",
+      "Nettoyer",
+      "Rien"
+    ],
+    "bonne_reponse": "Transmet pression freinage",
+    "explication": "Liquide transmet pression pédale vers freins.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 284,
+    "question": "Voyant pression pneu :",
+    "choix": [
+      "Vérifier gonflage",
+      "Ignorer",
+      "Normal",
+      "Crevaison"
+    ],
+    "bonne_reponse": "Vérifier gonflage",
+    "explication": "Voyant pneu = vérifier pression (perte possible).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 285,
+    "question": "Contrôle technique : fréquence ?",
+    "choix": [
+      "Tous les 2 ans (>4 ans)",
+      "Annuel",
+      "Tous les 5 ans",
+      "Jamais"
+    ],
+    "bonne_reponse": "Tous les 2 ans (>4 ans)",
+    "explication": "CT obligatoire tous les 2 ans pour véhicule > 4 ans.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 286,
+    "question": "Profondeur sculpture minimale légale :",
+    "choix": [
+      "1,6 mm",
+      "3 mm",
+      "5 mm",
+      "0 mm"
+    ],
+    "bonne_reponse": "1,6 mm",
+    "explication": "Minimum légal = 1,6 mm (témoin d'usure).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 287,
+    "question": "Liquide de frein : rôle ?",
+    "choix": [
+      "Transmet pression freinage",
+      "Refroidir",
+      "Nettoyer",
+      "Rien"
+    ],
+    "bonne_reponse": "Transmet pression freinage",
+    "explication": "Liquide transmet pression pédale vers freins.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 288,
+    "question": "Voyant pression pneu :",
+    "choix": [
+      "Vérifier gonflage",
+      "Ignorer",
+      "Normal",
+      "Crevaison"
+    ],
+    "bonne_reponse": "Vérifier gonflage",
+    "explication": "Voyant pneu = vérifier pression (perte possible).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 289,
+    "question": "Contrôle technique : fréquence ?",
+    "choix": [
+      "Tous les 2 ans (>4 ans)",
+      "Annuel",
+      "Tous les 5 ans",
+      "Jamais"
+    ],
+    "bonne_reponse": "Tous les 2 ans (>4 ans)",
+    "explication": "CT obligatoire tous les 2 ans pour véhicule > 4 ans.",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 290,
+    "question": "Profondeur sculpture minimale légale :",
+    "choix": [
+      "1,6 mm",
+      "3 mm",
+      "5 mm",
+      "0 mm"
+    ],
+    "bonne_reponse": "1,6 mm",
+    "explication": "Minimum légal = 1,6 mm (témoin d'usure).",
+    "theme": "Mécanique"
+  },
+  {
+    "id": 291,
+    "question": "Numéro urgence européen ?",
+    "choix": [
+      "112",
+      "15",
+      "17",
+      "18"
+    ],
+    "bonne_reponse": "112",
+    "explication": "112 = numéro urgence unique européen.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 292,
+    "question": "PLS : pourquoi ?",
+    "choix": [
+      "Éviter étouffement langue/vomi",
+      "Confort",
+      "Esthétique",
+      "Inutile"
+    ],
+    "bonne_reponse": "Éviter étouffement langue/vomi",
+    "explication": "PLS empêche langue d'obstruer gorge, vomi d'étouffer.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 293,
+    "question": "Hémorragie : élever membre ?",
+    "choix": [
+      "Oui si possible",
+      "Non",
+      "Toujours",
+      "Jamais"
+    ],
+    "bonne_reponse": "Oui si possible",
+    "explication": "Élever membre réduit saignement (si pas fracture).",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 294,
+    "question": "Fracture apparente : action ?",
+    "choix": [
+      "Immobiliser, ne pas bouger",
+      "Réduire fracture",
+      "Tirer membre",
+      "Masser"
+    ],
+    "bonne_reponse": "Immobiliser, ne pas bouger",
+    "explication": "Fracture = immobiliser dans position trouvée.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 295,
+    "question": "Numéro urgence européen ?",
+    "choix": [
+      "112",
+      "15",
+      "17",
+      "18"
+    ],
+    "bonne_reponse": "112",
+    "explication": "112 = numéro urgence unique européen.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 296,
+    "question": "PLS : pourquoi ?",
+    "choix": [
+      "Éviter étouffement langue/vomi",
+      "Confort",
+      "Esthétique",
+      "Inutile"
+    ],
+    "bonne_reponse": "Éviter étouffement langue/vomi",
+    "explication": "PLS empêche langue d'obstruer gorge, vomi d'étouffer.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 297,
+    "question": "Hémorragie : élever membre ?",
+    "choix": [
+      "Oui si possible",
+      "Non",
+      "Toujours",
+      "Jamais"
+    ],
+    "bonne_reponse": "Oui si possible",
+    "explication": "Élever membre réduit saignement (si pas fracture).",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 298,
+    "question": "Fracture apparente : action ?",
+    "choix": [
+      "Immobiliser, ne pas bouger",
+      "Réduire fracture",
+      "Tirer membre",
+      "Masser"
+    ],
+    "bonne_reponse": "Immobiliser, ne pas bouger",
+    "explication": "Fracture = immobiliser dans position trouvée.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 299,
+    "question": "Numéro urgence européen ?",
+    "choix": [
+      "112",
+      "15",
+      "17",
+      "18"
+    ],
+    "bonne_reponse": "112",
+    "explication": "112 = numéro urgence unique européen.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 300,
+    "question": "PLS : pourquoi ?",
+    "choix": [
+      "Éviter étouffement langue/vomi",
+      "Confort",
+      "Esthétique",
+      "Inutile"
+    ],
+    "bonne_reponse": "Éviter étouffement langue/vomi",
+    "explication": "PLS empêche langue d'obstruer gorge, vomi d'étouffer.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 301,
+    "question": "Hémorragie : élever membre ?",
+    "choix": [
+      "Oui si possible",
+      "Non",
+      "Toujours",
+      "Jamais"
+    ],
+    "bonne_reponse": "Oui si possible",
+    "explication": "Élever membre réduit saignement (si pas fracture).",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 302,
+    "question": "Fracture apparente : action ?",
+    "choix": [
+      "Immobiliser, ne pas bouger",
+      "Réduire fracture",
+      "Tirer membre",
+      "Masser"
+    ],
+    "bonne_reponse": "Immobiliser, ne pas bouger",
+    "explication": "Fracture = immobiliser dans position trouvée.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 303,
+    "question": "Numéro urgence européen ?",
+    "choix": [
+      "112",
+      "15",
+      "17",
+      "18"
+    ],
+    "bonne_reponse": "112",
+    "explication": "112 = numéro urgence unique européen.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 304,
+    "question": "PLS : pourquoi ?",
+    "choix": [
+      "Éviter étouffement langue/vomi",
+      "Confort",
+      "Esthétique",
+      "Inutile"
+    ],
+    "bonne_reponse": "Éviter étouffement langue/vomi",
+    "explication": "PLS empêche langue d'obstruer gorge, vomi d'étouffer.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 305,
+    "question": "Hémorragie : élever membre ?",
+    "choix": [
+      "Oui si possible",
+      "Non",
+      "Toujours",
+      "Jamais"
+    ],
+    "bonne_reponse": "Oui si possible",
+    "explication": "Élever membre réduit saignement (si pas fracture).",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 306,
+    "question": "Fracture apparente : action ?",
+    "choix": [
+      "Immobiliser, ne pas bouger",
+      "Réduire fracture",
+      "Tirer membre",
+      "Masser"
+    ],
+    "bonne_reponse": "Immobiliser, ne pas bouger",
+    "explication": "Fracture = immobiliser dans position trouvée.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 307,
+    "question": "Numéro urgence européen ?",
+    "choix": [
+      "112",
+      "15",
+      "17",
+      "18"
+    ],
+    "bonne_reponse": "112",
+    "explication": "112 = numéro urgence unique européen.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 308,
+    "question": "PLS : pourquoi ?",
+    "choix": [
+      "Éviter étouffement langue/vomi",
+      "Confort",
+      "Esthétique",
+      "Inutile"
+    ],
+    "bonne_reponse": "Éviter étouffement langue/vomi",
+    "explication": "PLS empêche langue d'obstruer gorge, vomi d'étouffer.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 309,
+    "question": "Hémorragie : élever membre ?",
+    "choix": [
+      "Oui si possible",
+      "Non",
+      "Toujours",
+      "Jamais"
+    ],
+    "bonne_reponse": "Oui si possible",
+    "explication": "Élever membre réduit saignement (si pas fracture).",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 310,
+    "question": "Fracture apparente : action ?",
+    "choix": [
+      "Immobiliser, ne pas bouger",
+      "Réduire fracture",
+      "Tirer membre",
+      "Masser"
+    ],
+    "bonne_reponse": "Immobiliser, ne pas bouger",
+    "explication": "Fracture = immobiliser dans position trouvée.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 311,
+    "question": "Numéro urgence européen ?",
+    "choix": [
+      "112",
+      "15",
+      "17",
+      "18"
+    ],
+    "bonne_reponse": "112",
+    "explication": "112 = numéro urgence unique européen.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 312,
+    "question": "PLS : pourquoi ?",
+    "choix": [
+      "Éviter étouffement langue/vomi",
+      "Confort",
+      "Esthétique",
+      "Inutile"
+    ],
+    "bonne_reponse": "Éviter étouffement langue/vomi",
+    "explication": "PLS empêche langue d'obstruer gorge, vomi d'étouffer.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 313,
+    "question": "Hémorragie : élever membre ?",
+    "choix": [
+      "Oui si possible",
+      "Non",
+      "Toujours",
+      "Jamais"
+    ],
+    "bonne_reponse": "Oui si possible",
+    "explication": "Élever membre réduit saignement (si pas fracture).",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 314,
+    "question": "Fracture apparente : action ?",
+    "choix": [
+      "Immobiliser, ne pas bouger",
+      "Réduire fracture",
+      "Tirer membre",
+      "Masser"
+    ],
+    "bonne_reponse": "Immobiliser, ne pas bouger",
+    "explication": "Fracture = immobiliser dans position trouvée.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 315,
+    "question": "Numéro urgence européen ?",
+    "choix": [
+      "112",
+      "15",
+      "17",
+      "18"
+    ],
+    "bonne_reponse": "112",
+    "explication": "112 = numéro urgence unique européen.",
+    "theme": "Premiers Secours"
+  },
+  {
+    "id": 316,
+    "question": "Pour consommer moins :",
+    "choix": [
+      "Conduite souple anticipée",
+      "Accélérations brutales",
+      "Fenêtres ouvertes autoroute",
+      "Point mort"
+    ],
+    "bonne_reponse": "Conduite souple anticipée",
+    "explication": "Conduite souple, anticipation = -20% consommation.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 317,
+    "question": "Descente : comment économiser ?",
+    "choix": [
+      "Laisser rouler en vitesse",
+      "Point mort",
+      "Freiner continu",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Laisser rouler en vitesse",
+    "explication": "Descente en vitesse (frein moteur) = injection coupée.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 318,
+    "question": "Fenêtres ouvertes autoroute :",
+    "choix": [
+      "Augmente consommation",
+      "Réduit consommation",
+      "Neutre",
+      "Meilleur"
+    ],
+    "bonne_reponse": "Augmente consommation",
+    "explication": "Fenêtres ouvertes haute vitesse = résistance air, surconso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 319,
+    "question": "Galerie toit inutilisée :",
+    "choix": [
+      "Surconsommation",
+      "Neutre",
+      "Économie",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Surconsommation",
+    "explication": "Galerie/coffre toit = résistance air, +10-20% conso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 320,
+    "question": "Pour consommer moins :",
+    "choix": [
+      "Conduite souple anticipée",
+      "Accélérations brutales",
+      "Fenêtres ouvertes autoroute",
+      "Point mort"
+    ],
+    "bonne_reponse": "Conduite souple anticipée",
+    "explication": "Conduite souple, anticipation = -20% consommation.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 321,
+    "question": "Descente : comment économiser ?",
+    "choix": [
+      "Laisser rouler en vitesse",
+      "Point mort",
+      "Freiner continu",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Laisser rouler en vitesse",
+    "explication": "Descente en vitesse (frein moteur) = injection coupée.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 322,
+    "question": "Fenêtres ouvertes autoroute :",
+    "choix": [
+      "Augmente consommation",
+      "Réduit consommation",
+      "Neutre",
+      "Meilleur"
+    ],
+    "bonne_reponse": "Augmente consommation",
+    "explication": "Fenêtres ouvertes haute vitesse = résistance air, surconso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 323,
+    "question": "Galerie toit inutilisée :",
+    "choix": [
+      "Surconsommation",
+      "Neutre",
+      "Économie",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Surconsommation",
+    "explication": "Galerie/coffre toit = résistance air, +10-20% conso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 324,
+    "question": "Pour consommer moins :",
+    "choix": [
+      "Conduite souple anticipée",
+      "Accélérations brutales",
+      "Fenêtres ouvertes autoroute",
+      "Point mort"
+    ],
+    "bonne_reponse": "Conduite souple anticipée",
+    "explication": "Conduite souple, anticipation = -20% consommation.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 325,
+    "question": "Descente : comment économiser ?",
+    "choix": [
+      "Laisser rouler en vitesse",
+      "Point mort",
+      "Freiner continu",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Laisser rouler en vitesse",
+    "explication": "Descente en vitesse (frein moteur) = injection coupée.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 326,
+    "question": "Fenêtres ouvertes autoroute :",
+    "choix": [
+      "Augmente consommation",
+      "Réduit consommation",
+      "Neutre",
+      "Meilleur"
+    ],
+    "bonne_reponse": "Augmente consommation",
+    "explication": "Fenêtres ouvertes haute vitesse = résistance air, surconso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 327,
+    "question": "Galerie toit inutilisée :",
+    "choix": [
+      "Surconsommation",
+      "Neutre",
+      "Économie",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Surconsommation",
+    "explication": "Galerie/coffre toit = résistance air, +10-20% conso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 328,
+    "question": "Pour consommer moins :",
+    "choix": [
+      "Conduite souple anticipée",
+      "Accélérations brutales",
+      "Fenêtres ouvertes autoroute",
+      "Point mort"
+    ],
+    "bonne_reponse": "Conduite souple anticipée",
+    "explication": "Conduite souple, anticipation = -20% consommation.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 329,
+    "question": "Descente : comment économiser ?",
+    "choix": [
+      "Laisser rouler en vitesse",
+      "Point mort",
+      "Freiner continu",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Laisser rouler en vitesse",
+    "explication": "Descente en vitesse (frein moteur) = injection coupée.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 330,
+    "question": "Fenêtres ouvertes autoroute :",
+    "choix": [
+      "Augmente consommation",
+      "Réduit consommation",
+      "Neutre",
+      "Meilleur"
+    ],
+    "bonne_reponse": "Augmente consommation",
+    "explication": "Fenêtres ouvertes haute vitesse = résistance air, surconso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 331,
+    "question": "Galerie toit inutilisée :",
+    "choix": [
+      "Surconsommation",
+      "Neutre",
+      "Économie",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Surconsommation",
+    "explication": "Galerie/coffre toit = résistance air, +10-20% conso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 332,
+    "question": "Pour consommer moins :",
+    "choix": [
+      "Conduite souple anticipée",
+      "Accélérations brutales",
+      "Fenêtres ouvertes autoroute",
+      "Point mort"
+    ],
+    "bonne_reponse": "Conduite souple anticipée",
+    "explication": "Conduite souple, anticipation = -20% consommation.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 333,
+    "question": "Descente : comment économiser ?",
+    "choix": [
+      "Laisser rouler en vitesse",
+      "Point mort",
+      "Freiner continu",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Laisser rouler en vitesse",
+    "explication": "Descente en vitesse (frein moteur) = injection coupée.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 334,
+    "question": "Fenêtres ouvertes autoroute :",
+    "choix": [
+      "Augmente consommation",
+      "Réduit consommation",
+      "Neutre",
+      "Meilleur"
+    ],
+    "bonne_reponse": "Augmente consommation",
+    "explication": "Fenêtres ouvertes haute vitesse = résistance air, surconso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 335,
+    "question": "Galerie toit inutilisée :",
+    "choix": [
+      "Surconsommation",
+      "Neutre",
+      "Économie",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Surconsommation",
+    "explication": "Galerie/coffre toit = résistance air, +10-20% conso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 336,
+    "question": "Pour consommer moins :",
+    "choix": [
+      "Conduite souple anticipée",
+      "Accélérations brutales",
+      "Fenêtres ouvertes autoroute",
+      "Point mort"
+    ],
+    "bonne_reponse": "Conduite souple anticipée",
+    "explication": "Conduite souple, anticipation = -20% consommation.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 337,
+    "question": "Descente : comment économiser ?",
+    "choix": [
+      "Laisser rouler en vitesse",
+      "Point mort",
+      "Freiner continu",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Laisser rouler en vitesse",
+    "explication": "Descente en vitesse (frein moteur) = injection coupée.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 338,
+    "question": "Fenêtres ouvertes autoroute :",
+    "choix": [
+      "Augmente consommation",
+      "Réduit consommation",
+      "Neutre",
+      "Meilleur"
+    ],
+    "bonne_reponse": "Augmente consommation",
+    "explication": "Fenêtres ouvertes haute vitesse = résistance air, surconso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 339,
+    "question": "Galerie toit inutilisée :",
+    "choix": [
+      "Surconsommation",
+      "Neutre",
+      "Économie",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Surconsommation",
+    "explication": "Galerie/coffre toit = résistance air, +10-20% conso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 340,
+    "question": "Pour consommer moins :",
+    "choix": [
+      "Conduite souple anticipée",
+      "Accélérations brutales",
+      "Fenêtres ouvertes autoroute",
+      "Point mort"
+    ],
+    "bonne_reponse": "Conduite souple anticipée",
+    "explication": "Conduite souple, anticipation = -20% consommation.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 341,
+    "question": "Descente : comment économiser ?",
+    "choix": [
+      "Laisser rouler en vitesse",
+      "Point mort",
+      "Freiner continu",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Laisser rouler en vitesse",
+    "explication": "Descente en vitesse (frein moteur) = injection coupée.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 342,
+    "question": "Fenêtres ouvertes autoroute :",
+    "choix": [
+      "Augmente consommation",
+      "Réduit consommation",
+      "Neutre",
+      "Meilleur"
+    ],
+    "bonne_reponse": "Augmente consommation",
+    "explication": "Fenêtres ouvertes haute vitesse = résistance air, surconso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 343,
+    "question": "Galerie toit inutilisée :",
+    "choix": [
+      "Surconsommation",
+      "Neutre",
+      "Économie",
+      "Recommandé"
+    ],
+    "bonne_reponse": "Surconsommation",
+    "explication": "Galerie/coffre toit = résistance air, +10-20% conso.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 344,
+    "question": "Pour consommer moins :",
+    "choix": [
+      "Conduite souple anticipée",
+      "Accélérations brutales",
+      "Fenêtres ouvertes autoroute",
+      "Point mort"
+    ],
+    "bonne_reponse": "Conduite souple anticipée",
+    "explication": "Conduite souple, anticipation = -20% consommation.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 345,
+    "question": "Descente : comment économiser ?",
+    "choix": [
+      "Laisser rouler en vitesse",
+      "Point mort",
+      "Freiner continu",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Laisser rouler en vitesse",
+    "explication": "Descente en vitesse (frein moteur) = injection coupée.",
+    "theme": "Éco-conduite"
+  },
+  {
+    "id": 51,
+    "question": "À une intersection sans panneau, qui est prioritaire ?",
+    "choix": [
+      "Celui qui vient de droite",
+      "De gauche",
+      "Le plus gros",
+      "Qui klaxonne"
+    ],
+    "bonne_reponse": "Celui qui vient de droite",
+    "explication": "Règle de base : priorité à droite en l'absence de signalisation.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 52,
+    "question": "Piéton s'engage sur passage :",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Klaxonner",
+      "Continuer"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Piéton engagé = arrêt immédiat obligatoire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 53,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 54,
+    "question": "Véhicule prioritaire gyrophare/sirène :",
+    "choix": [
+      "Faciliter passage",
+      "Garder trajectoire",
+      "Accélérer",
+      "Freiner"
+    ],
+    "bonne_reponse": "Faciliter passage",
+    "explication": "Faciliter passage véhicule prioritaire obligatoire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 55,
+    "question": "Vous tournez à gauche, véhicule en face :",
+    "choix": [
+      "Céder le passage",
+      "Prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder le passage",
+    "explication": "Tourner à gauche = céder passage véhicules en face.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 56,
+    "question": "Piéton sur passage vs véhicule prioritaire :",
+    "choix": [
+      "Piéton toujours",
+      "Véhicule prioritaire",
+      "Dépend situation",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Piéton toujours",
+    "explication": "Piéton engagé sur passage = TOUJOURS prioritaire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 57,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 58,
+    "question": "Ambulance derrière vous :",
+    "choix": [
+      "Se ranger à droite",
+      "Accélérer",
+      "S'arrêter milieu",
+      "Ignorer"
+    ],
+    "bonne_reponse": "Se ranger à droite",
+    "explication": "Se ranger à droite pour laisser passer.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 59,
+    "question": "Deux véhicules face à face tournent :",
+    "choix": [
+      "Priorité à droite",
+      "Celui qui va tout droit",
+      "À gauche",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Celui qui va tout droit",
+    "explication": "Véhicule allant tout droit prioritaire sur celui qui tourne.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 60,
+    "question": "Zone de rencontre : vitesse et piétons ?",
+    "choix": [
+      "20 km/h, piétons prioritaires",
+      "50 km/h",
+      "30 km/h",
+      "Aucune règle"
+    ],
+    "bonne_reponse": "20 km/h, piétons prioritaires",
+    "explication": "Zone de rencontre = 20 km/h max, piétons prioritaires.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 61,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 62,
+    "question": "Convoi exceptionnel : priorité ?",
+    "choix": [
+      "Oui, ne pas couper",
+      "Non",
+      "Dépend",
+      "Si rapide"
+    ],
+    "bonne_reponse": "Oui, ne pas couper",
+    "explication": "Convoi exceptionnel = ne pas s'insérer.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 63,
+    "question": "Intersection en T : qui est prioritaire ?",
+    "choix": [
+      "Route principale",
+      "Route perpendiculaire",
+      "À droite toujours",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Route principale",
+    "explication": "Route principale prioritaire sauf signalisation contraire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 64,
+    "question": "Piéton traverse hors passage :",
+    "choix": [
+      "Prudence, ralentir",
+      "Prioritaire",
+      "Klaxonner fort",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Prudence, ralentir",
+    "explication": "Piéton hors passage = prudence mais pas priorité légale.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 65,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 66,
+    "question": "Véhicule prioritaire gyrophare/sirène :",
+    "choix": [
+      "Faciliter passage",
+      "Garder trajectoire",
+      "Accélérer",
+      "Freiner"
+    ],
+    "bonne_reponse": "Faciliter passage",
+    "explication": "Faciliter passage véhicule prioritaire obligatoire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 67,
+    "question": "Vous êtes sur route prioritaire. Véhicule de droite ne cède pas :",
+    "choix": [
+      "Ralentir et vérifier",
+      "Passer, prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Ralentir et vérifier",
+    "explication": "Priorité ne dispense pas de prudence.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 68,
+    "question": "Passage piéton sans feu : priorité ?",
+    "choix": [
+      "Piéton",
+      "Voiture",
+      "Dépend",
+      "À droite"
+    ],
+    "bonne_reponse": "Piéton",
+    "explication": "Piéton toujours prioritaire sur passage.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 69,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 70,
+    "question": "Ambulance derrière vous :",
+    "choix": [
+      "Se ranger à droite",
+      "Accélérer",
+      "S'arrêter milieu",
+      "Ignorer"
+    ],
+    "bonne_reponse": "Se ranger à droite",
+    "explication": "Se ranger à droite pour laisser passer.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 71,
+    "question": "À une intersection sans panneau, qui est prioritaire ?",
+    "choix": [
+      "Celui qui vient de droite",
+      "De gauche",
+      "Le plus gros",
+      "Qui klaxonne"
+    ],
+    "bonne_reponse": "Celui qui vient de droite",
+    "explication": "Règle de base : priorité à droite en l'absence de signalisation.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 72,
+    "question": "Piéton s'engage sur passage :",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Klaxonner",
+      "Continuer"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Piéton engagé = arrêt immédiat obligatoire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 73,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 74,
+    "question": "Convoi exceptionnel : priorité ?",
+    "choix": [
+      "Oui, ne pas couper",
+      "Non",
+      "Dépend",
+      "Si rapide"
+    ],
+    "bonne_reponse": "Oui, ne pas couper",
+    "explication": "Convoi exceptionnel = ne pas s'insérer.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 75,
+    "question": "Vous tournez à gauche, véhicule en face :",
+    "choix": [
+      "Céder le passage",
+      "Prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder le passage",
+    "explication": "Tourner à gauche = céder passage véhicules en face.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 76,
+    "question": "Piéton sur passage vs véhicule prioritaire :",
+    "choix": [
+      "Piéton toujours",
+      "Véhicule prioritaire",
+      "Dépend situation",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Piéton toujours",
+    "explication": "Piéton engagé sur passage = TOUJOURS prioritaire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 77,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 78,
+    "question": "Véhicule prioritaire gyrophare/sirène :",
+    "choix": [
+      "Faciliter passage",
+      "Garder trajectoire",
+      "Accélérer",
+      "Freiner"
+    ],
+    "bonne_reponse": "Faciliter passage",
+    "explication": "Faciliter passage véhicule prioritaire obligatoire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 79,
+    "question": "Deux véhicules face à face tournent :",
+    "choix": [
+      "Priorité à droite",
+      "Celui qui va tout droit",
+      "À gauche",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Celui qui va tout droit",
+    "explication": "Véhicule allant tout droit prioritaire sur celui qui tourne.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 80,
+    "question": "Zone de rencontre : vitesse et piétons ?",
+    "choix": [
+      "20 km/h, piétons prioritaires",
+      "50 km/h",
+      "30 km/h",
+      "Aucune règle"
+    ],
+    "bonne_reponse": "20 km/h, piétons prioritaires",
+    "explication": "Zone de rencontre = 20 km/h max, piétons prioritaires.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 81,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 82,
+    "question": "Ambulance derrière vous :",
+    "choix": [
+      "Se ranger à droite",
+      "Accélérer",
+      "S'arrêter milieu",
+      "Ignorer"
+    ],
+    "bonne_reponse": "Se ranger à droite",
+    "explication": "Se ranger à droite pour laisser passer.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 83,
+    "question": "Intersection en T : qui est prioritaire ?",
+    "choix": [
+      "Route principale",
+      "Route perpendiculaire",
+      "À droite toujours",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Route principale",
+    "explication": "Route principale prioritaire sauf signalisation contraire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 84,
+    "question": "Piéton traverse hors passage :",
+    "choix": [
+      "Prudence, ralentir",
+      "Prioritaire",
+      "Klaxonner fort",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Prudence, ralentir",
+    "explication": "Piéton hors passage = prudence mais pas priorité légale.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 85,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 86,
+    "question": "Convoi exceptionnel : priorité ?",
+    "choix": [
+      "Oui, ne pas couper",
+      "Non",
+      "Dépend",
+      "Si rapide"
+    ],
+    "bonne_reponse": "Oui, ne pas couper",
+    "explication": "Convoi exceptionnel = ne pas s'insérer.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 87,
+    "question": "Vous êtes sur route prioritaire. Véhicule de droite ne cède pas :",
+    "choix": [
+      "Ralentir et vérifier",
+      "Passer, prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Ralentir et vérifier",
+    "explication": "Priorité ne dispense pas de prudence.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 88,
+    "question": "Passage piéton sans feu : priorité ?",
+    "choix": [
+      "Piéton",
+      "Voiture",
+      "Dépend",
+      "À droite"
+    ],
+    "bonne_reponse": "Piéton",
+    "explication": "Piéton toujours prioritaire sur passage.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 89,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 90,
+    "question": "Véhicule prioritaire gyrophare/sirène :",
+    "choix": [
+      "Faciliter passage",
+      "Garder trajectoire",
+      "Accélérer",
+      "Freiner"
+    ],
+    "bonne_reponse": "Faciliter passage",
+    "explication": "Faciliter passage véhicule prioritaire obligatoire.",
+    "theme": "Priorités"
+  }
+]

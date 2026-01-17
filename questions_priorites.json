@@ -1,0 +1,522 @@
+[
+  {
+    "id": 51,
+    "question": "À une intersection sans panneau, qui est prioritaire ?",
+    "choix": [
+      "Celui qui vient de droite",
+      "De gauche",
+      "Le plus gros",
+      "Qui klaxonne"
+    ],
+    "bonne_reponse": "Celui qui vient de droite",
+    "explication": "Règle de base : priorité à droite en l'absence de signalisation.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 52,
+    "question": "Piéton s'engage sur passage :",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Klaxonner",
+      "Continuer"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Piéton engagé = arrêt immédiat obligatoire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 53,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 54,
+    "question": "Véhicule prioritaire gyrophare/sirène :",
+    "choix": [
+      "Faciliter passage",
+      "Garder trajectoire",
+      "Accélérer",
+      "Freiner"
+    ],
+    "bonne_reponse": "Faciliter passage",
+    "explication": "Faciliter passage véhicule prioritaire obligatoire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 55,
+    "question": "Vous tournez à gauche, véhicule en face :",
+    "choix": [
+      "Céder le passage",
+      "Prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder le passage",
+    "explication": "Tourner à gauche = céder passage véhicules en face.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 56,
+    "question": "Piéton sur passage vs véhicule prioritaire :",
+    "choix": [
+      "Piéton toujours",
+      "Véhicule prioritaire",
+      "Dépend situation",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Piéton toujours",
+    "explication": "Piéton engagé sur passage = TOUJOURS prioritaire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 57,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 58,
+    "question": "Ambulance derrière vous :",
+    "choix": [
+      "Se ranger à droite",
+      "Accélérer",
+      "S'arrêter milieu",
+      "Ignorer"
+    ],
+    "bonne_reponse": "Se ranger à droite",
+    "explication": "Se ranger à droite pour laisser passer.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 59,
+    "question": "Deux véhicules face à face tournent :",
+    "choix": [
+      "Priorité à droite",
+      "Celui qui va tout droit",
+      "À gauche",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Celui qui va tout droit",
+    "explication": "Véhicule allant tout droit prioritaire sur celui qui tourne.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 60,
+    "question": "Zone de rencontre : vitesse et piétons ?",
+    "choix": [
+      "20 km/h, piétons prioritaires",
+      "50 km/h",
+      "30 km/h",
+      "Aucune règle"
+    ],
+    "bonne_reponse": "20 km/h, piétons prioritaires",
+    "explication": "Zone de rencontre = 20 km/h max, piétons prioritaires.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 61,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 62,
+    "question": "Convoi exceptionnel : priorité ?",
+    "choix": [
+      "Oui, ne pas couper",
+      "Non",
+      "Dépend",
+      "Si rapide"
+    ],
+    "bonne_reponse": "Oui, ne pas couper",
+    "explication": "Convoi exceptionnel = ne pas s'insérer.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 63,
+    "question": "Intersection en T : qui est prioritaire ?",
+    "choix": [
+      "Route principale",
+      "Route perpendiculaire",
+      "À droite toujours",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Route principale",
+    "explication": "Route principale prioritaire sauf signalisation contraire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 64,
+    "question": "Piéton traverse hors passage :",
+    "choix": [
+      "Prudence, ralentir",
+      "Prioritaire",
+      "Klaxonner fort",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Prudence, ralentir",
+    "explication": "Piéton hors passage = prudence mais pas priorité légale.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 65,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 66,
+    "question": "Véhicule prioritaire gyrophare/sirène :",
+    "choix": [
+      "Faciliter passage",
+      "Garder trajectoire",
+      "Accélérer",
+      "Freiner"
+    ],
+    "bonne_reponse": "Faciliter passage",
+    "explication": "Faciliter passage véhicule prioritaire obligatoire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 67,
+    "question": "Vous êtes sur route prioritaire. Véhicule de droite ne cède pas :",
+    "choix": [
+      "Ralentir et vérifier",
+      "Passer, prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Ralentir et vérifier",
+    "explication": "Priorité ne dispense pas de prudence.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 68,
+    "question": "Passage piéton sans feu : priorité ?",
+    "choix": [
+      "Piéton",
+      "Voiture",
+      "Dépend",
+      "À droite"
+    ],
+    "bonne_reponse": "Piéton",
+    "explication": "Piéton toujours prioritaire sur passage.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 69,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 70,
+    "question": "Ambulance derrière vous :",
+    "choix": [
+      "Se ranger à droite",
+      "Accélérer",
+      "S'arrêter milieu",
+      "Ignorer"
+    ],
+    "bonne_reponse": "Se ranger à droite",
+    "explication": "Se ranger à droite pour laisser passer.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 71,
+    "question": "À une intersection sans panneau, qui est prioritaire ?",
+    "choix": [
+      "Celui qui vient de droite",
+      "De gauche",
+      "Le plus gros",
+      "Qui klaxonne"
+    ],
+    "bonne_reponse": "Celui qui vient de droite",
+    "explication": "Règle de base : priorité à droite en l'absence de signalisation.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 72,
+    "question": "Piéton s'engage sur passage :",
+    "choix": [
+      "Arrêt obligatoire",
+      "Ralentir",
+      "Klaxonner",
+      "Continuer"
+    ],
+    "bonne_reponse": "Arrêt obligatoire",
+    "explication": "Piéton engagé = arrêt immédiat obligatoire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 73,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 74,
+    "question": "Convoi exceptionnel : priorité ?",
+    "choix": [
+      "Oui, ne pas couper",
+      "Non",
+      "Dépend",
+      "Si rapide"
+    ],
+    "bonne_reponse": "Oui, ne pas couper",
+    "explication": "Convoi exceptionnel = ne pas s'insérer.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 75,
+    "question": "Vous tournez à gauche, véhicule en face :",
+    "choix": [
+      "Céder le passage",
+      "Prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Céder le passage",
+    "explication": "Tourner à gauche = céder passage véhicules en face.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 76,
+    "question": "Piéton sur passage vs véhicule prioritaire :",
+    "choix": [
+      "Piéton toujours",
+      "Véhicule prioritaire",
+      "Dépend situation",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Piéton toujours",
+    "explication": "Piéton engagé sur passage = TOUJOURS prioritaire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 77,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 78,
+    "question": "Véhicule prioritaire gyrophare/sirène :",
+    "choix": [
+      "Faciliter passage",
+      "Garder trajectoire",
+      "Accélérer",
+      "Freiner"
+    ],
+    "bonne_reponse": "Faciliter passage",
+    "explication": "Faciliter passage véhicule prioritaire obligatoire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 79,
+    "question": "Deux véhicules face à face tournent :",
+    "choix": [
+      "Priorité à droite",
+      "Celui qui va tout droit",
+      "À gauche",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Celui qui va tout droit",
+    "explication": "Véhicule allant tout droit prioritaire sur celui qui tourne.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 80,
+    "question": "Zone de rencontre : vitesse et piétons ?",
+    "choix": [
+      "20 km/h, piétons prioritaires",
+      "50 km/h",
+      "30 km/h",
+      "Aucune règle"
+    ],
+    "bonne_reponse": "20 km/h, piétons prioritaires",
+    "explication": "Zone de rencontre = 20 km/h max, piétons prioritaires.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 81,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 82,
+    "question": "Ambulance derrière vous :",
+    "choix": [
+      "Se ranger à droite",
+      "Accélérer",
+      "S'arrêter milieu",
+      "Ignorer"
+    ],
+    "bonne_reponse": "Se ranger à droite",
+    "explication": "Se ranger à droite pour laisser passer.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 83,
+    "question": "Intersection en T : qui est prioritaire ?",
+    "choix": [
+      "Route principale",
+      "Route perpendiculaire",
+      "À droite toujours",
+      "Plus rapide"
+    ],
+    "bonne_reponse": "Route principale",
+    "explication": "Route principale prioritaire sauf signalisation contraire.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 84,
+    "question": "Piéton traverse hors passage :",
+    "choix": [
+      "Prudence, ralentir",
+      "Prioritaire",
+      "Klaxonner fort",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Prudence, ralentir",
+    "explication": "Piéton hors passage = prudence mais pas priorité légale.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 85,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 86,
+    "question": "Convoi exceptionnel : priorité ?",
+    "choix": [
+      "Oui, ne pas couper",
+      "Non",
+      "Dépend",
+      "Si rapide"
+    ],
+    "bonne_reponse": "Oui, ne pas couper",
+    "explication": "Convoi exceptionnel = ne pas s'insérer.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 87,
+    "question": "Vous êtes sur route prioritaire. Véhicule de droite ne cède pas :",
+    "choix": [
+      "Ralentir et vérifier",
+      "Passer, prioritaire",
+      "Klaxonner",
+      "Accélérer"
+    ],
+    "bonne_reponse": "Ralentir et vérifier",
+    "explication": "Priorité ne dispense pas de prudence.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 88,
+    "question": "Passage piéton sans feu : priorité ?",
+    "choix": [
+      "Piéton",
+      "Voiture",
+      "Dépend",
+      "À droite"
+    ],
+    "bonne_reponse": "Piéton",
+    "explication": "Piéton toujours prioritaire sur passage.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 89,
+    "question": "Rond-point à 2 voies : quelle voie ?",
+    "choix": [
+      "Intérieure si plus d'1/2 tour",
+      "Extérieure toujours",
+      "Au choix",
+      "Rapide"
+    ],
+    "bonne_reponse": "Intérieure si plus d'1/2 tour",
+    "explication": "Voie intérieure pour dépasser demi-tour.",
+    "theme": "Priorités"
+  },
+  {
+    "id": 90,
+    "question": "Véhicule prioritaire gyrophare/sirène :",
+    "choix": [
+      "Faciliter passage",
+      "Garder trajectoire",
+      "Accélérer",
+      "Freiner"
+    ],
+    "bonne_reponse": "Faciliter passage",
+    "explication": "Faciliter passage véhicule prioritaire obligatoire.",
+    "theme": "Priorités"
+  }
+]

@@ -1,0 +1,129 @@
+<!-- À ajouter APRÈS le bouton "Questions Difficiles" dans index.html (ligne ~148) -->
+
+        <!-- NOUVEAU : FlashCards Mode -->
+        <button id="btn-flashcards-mode" class="mode-card mode-special">
+          <div class="mode-icon">🎴</div>
+          <div class="mode-content">
+            <h3 class="mode-title">FlashCards</h3>
+            <p class="mode-description">Mémorisation interactive</p>
+          </div>
+          <div class="mode-arrow">→</div>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- NOUVELLE SECTION : ÉCRAN FLASHCARDS -->
+  <div id="screen-flashcards" class="screen">
+    <header class="header sticky-header">
+      <button id="btn-flashcards-back" class="btn-back">←</button>
+      <h1 class="header-title">FlashCards</h1>
+      <div class="flashcard-counter-badge" id="flashcard-counter">1 / 64</div>
+    </header>
+
+    <div class="flashcards-container">
+      <!-- Statistiques FlashCards -->
+      <div class="flashcards-stats">
+        <div class="flashcard-stat-item">
+          <div class="flashcard-stat-label">Connues</div>
+          <div class="flashcard-stat-value" id="flashcard-known-count">0</div>
+          <div class="flashcard-stat-bar">
+            <div class="flashcard-stat-fill flashcard-known" id="flashcard-known-bar"></div>
+          </div>
+        </div>
+        <div class="flashcard-stat-item">
+          <div class="flashcard-stat-label">À revoir</div>
+          <div class="flashcard-stat-value" id="flashcard-review-count">0</div>
+          <div class="flashcard-stat-bar">
+            <div class="flashcard-stat-fill flashcard-review" id="flashcard-review-bar"></div>
+          </div>
+        </div>
+        <div class="flashcard-stat-item">
+          <div class="flashcard-stat-label">Inconnues</div>
+          <div class="flashcard-stat-value" id="flashcard-unknown-count">64</div>
+        </div>
+        <div class="flashcard-stat-item">
+          <div class="flashcard-stat-label">Total</div>
+          <div class="flashcard-stat-value" id="flashcard-total-count">64</div>
+        </div>
+      </div>
+
+      <!-- Filtres FlashCards -->
+      <div class="flashcards-filters">
+        <button class="flashcard-filter-btn active" onclick="flashcards.filter('all')">
+          Toutes
+        </button>
+        <button class="flashcard-filter-btn" onclick="flashcards.filter('unknown')">
+          Inconnues
+        </button>
+        <button class="flashcard-filter-btn" onclick="flashcards.filter('review')">
+          À revoir
+        </button>
+        <button class="flashcard-filter-btn" onclick="flashcards.shuffle()">
+          🔀 Mélanger
+        </button>
+      </div>
+
+      <!-- Progress bar -->
+      <div class="flashcard-progress-container">
+        <div class="flashcard-progress-fill" id="flashcard-progress-fill"></div>
+      </div>
+
+      <!-- FlashCard -->
+      <div class="flashcard" id="flashcard-content" onclick="flashcards.flip()">
+        <div class="flashcard-inner">
+          <!-- Face RECTO -->
+          <div class="flashcard-face flashcard-front">
+            <div class="flashcard-theme">Signalisation</div>
+            <div class="flashcard-question">
+              Que signifie le panneau STOP ?
+            </div>
+            <div class="flashcard-hint">
+              👆 Cliquez pour voir la réponse
+            </div>
+          </div>
+
+          <!-- Face VERSO -->
+          <div class="flashcard-face flashcard-back">
+            <div class="flashcard-answer-label">✓ Réponse correcte</div>
+            <div class="flashcard-answer">
+              Arrêt obligatoire à la ligne
+            </div>
+            <hr class="flashcard-divider">
+            <div class="flashcard-explanation-label">💡 Explication</div>
+            <div class="flashcard-explanation">
+              Le panneau STOP impose un arrêt complet...
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Boutons de navigation -->
+      <div class="flashcard-navigation">
+        <button class="btn-flashcard-nav" id="btn-flashcard-prev" onclick="flashcards.prev()">
+          ← Précédente
+        </button>
+        <button class="btn-flashcard-nav btn-primary" id="btn-flashcard-next" onclick="flashcards.next()">
+          Suivante →
+        </button>
+      </div>
+
+      <!-- Actions FlashCards -->
+      <div class="flashcard-actions">
+        <button class="btn-flashcard-action btn-review" id="btn-mark-review" onclick="flashcards.markReview()">
+          📌 À revoir
+        </button>
+        <button class="btn-flashcard-action btn-known" id="btn-mark-known" onclick="flashcards.markKnown()">
+          ✓ Je sais
+        </button>
+      </div>
+
+      <!-- Raccourcis clavier -->
+      <div class="flashcard-shortcuts">
+        <div class="shortcut-item">← → Navigation</div>
+        <div class="shortcut-item">Espace Retourner</div>
+        <div class="shortcut-item">R À revoir</div>
+        <div class="shortcut-item">K Je sais</div>
+      </div>
+    </div>
+  </div>
