@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://HTDev555.github.io/code-route-quiz/sitemap.xml
