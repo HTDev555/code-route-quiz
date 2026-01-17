@@ -1859,7 +1859,7 @@ function init() {
   setTimeout(() => {
     document.getElementById("splash-screen").style.display = "none";
     document.getElementById("app").classList.remove("hidden");
-  }, 2000);
+  }, 800);
 }
 
 function setupEventListeners() {
